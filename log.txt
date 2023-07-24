@@ -1,0 +1,3284 @@
+GIANTS Engine Runtime 9.0.0 (30819) 64bit Steam (Build Date: Jun  8 2023)
+Copyright (c) 2008-2021, GIANTS Software GmbH (giants-software.com), All Rights Reserved.
+Copyright (c) 2003-2021, Christian Ammann and Stefan Geiger, All Rights Reserved.
+Application: FarmingSimulator2022
+Main System
+  CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+  Memory: 16253 MB
+  OS: Windows NT 10.0 64-bit
+Physics System
+  Version: 5.9.5
+  Thread(s): 2
+Audio System
+  Driver: SoftMixer WASAPI Stereo
+  Version: 2018.11
+  Frequency: 48000
+  Max. active sources: 256
+Render System
+  Driver: Direct 3D 12
+  Card Vendor: NVIDIA Corporation
+  Renderer: NVIDIA GeForce RTX 3050
+  Version: 31.0.15.3640 (23.6.2023)
+  Revision: 161
+  Hardware Feature Level : 12_1
+  Windowed Mode               : off
+  V-Sync                      : on
+  Allow Tearing               : off
+  Validation Layer            : off
+  Effective Window Size       : 3840 x 2160px
+  Effective Swap Chain Size   : 2560 x 1440px
+Started 3 threads for threadpool 'Render threadpool'
+Hardware Profile
+  Level: Custom High
+  View Distance Factor: 1.100000
+  Shadow Quality: 1.000000 Base-Size: 2048 Filter-Size: 16
+  Shadow Focus Box: false
+  Foliage Shadows: true
+  Shader Quality: 2
+  Skip Mipmaps: 0
+  LOD Distance Factor: 1.100000
+  Terrain LOD Distance Factor: 1.500000
+  Terrain Quality: 3
+  Foliage View Distance Factor: 1.400000
+  Volume Mesh Tessellation Factor: 0.850000
+  Tyre Tracks Segments Factor: 1.500000
+  Max. Number of Shadow Lights: 3
+  Max. Number of Lights: 256
+  Max. Number of Dir Lights: 4
+  Max. Number of Lights Per Cluster: 32
+  MSAA: 1
+  Post Process AA: TAA
+  DLSS Quality: Off
+  AMD FidelityFx SR Quality: Off
+  AMD FidelityFx SR 2.0 Quality: Off
+  Intel XeSS Quality: Off
+  Sharpness: 1.00
+  Recommended Window Size: 1920 x 1080px
+  Bloom Quality: 4
+  SSAO Quality: 15
+  SSAO Resolution Scaling: 0.500000
+  DOF: Enabled
+  Half Resolution DOF: Disabled
+  Cloud Quality: 3
+  Texture Streaming: Enabled
+  EnvMap Blending: Enabled
+  Dynamic Specular EnvMap: Disabled
+  Shading Rate Quality: 1
+Input System
+  Keyboard enabled
+  Mouse enabled
+  Gamepad/Joystick enabled
+  Force Feedback disabled
+Started 1 threads for threadpool 'TerrainPatchOccluderManager unique worker'
+ Used Start Parameters:
+    exe D:\SteamLibrary\steamapps\common\Farming Simulator 22\x64\FarmingSimulator2022Game.exe 
+Platform: loading defaults
+  Setting 'Master Volume': 1.000
+  Setting 'Is Train Tabbable': true
+  Setting 'Radio Vehicle Only': true
+  Setting 'Radio Active': false
+  Setting 'Use Colorblind Mode': false
+  Setting 'Easy Arm Control': true
+  Setting 'Show Trigger Marker': true
+  Setting 'Show Help Trigger': true
+  Setting 'Show Field-Info': true
+  Setting 'Invert Y-Look': false
+  Setting 'Show Help Icons': true
+  Setting 'Radio Volume': 0.600
+  Setting 'Vehicle Volume': 1.000
+  Setting 'Environment Volume': 0.700
+  Setting 'GUI Volume': 0.500
+  Setting 'Master Volume': 1.000
+  Setting 'Music Volume': 0.000
+Farming Simulator 22 (Steam)
+  Version: 1.11.0.0 b25296
+  Available Languages: en de jp pl cz fr es ru it pt hu nl cs ct br tr ro kr ea da fi no sv fc
+  Language: en
+  Time: 2023-07-24 13:54:03
+  ModDesc Version: 76
+  Mod Directory: C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/
+Available mod: (Hash: 94e3c41005957426329c14e77cc42a16) (Version: 1.0.1.0) baleStacking
+Available mod: (Hash: 6e6989dfc2ead20663b7451cb0119709) (Version: 1.0.1.0) arena
+Available mod: (Hash: 86e1a01f9f708882a13d44865ad5dbe3) (Version: 1.3.0.0) FS22_Animals_Placeables_Pack
+Available mod: (Hash: 7e968068e5457bb757bb3ec9ae8ab474) (Version: 2.0.0.9) FS22_AutoDrive
+Available mod: (Hash: 6bf2ed0b77fa5289889510d11e81a5f5) (Version: 1.4.1.4) FS22_A_ProductionRevamp
+Available mod: (Hash: b0761790e3928afd1ee62658a85561a0) (Version: 1.0.1.0) FS22_BalerHitchPack
+Available mod: (Hash: 046ee41a1e4a289ff909e459ffef946c) (Version: 1.5.0.0) FS22_Black_Mountain
+Available mod: (Hash: e6f49488cecfedd0768a4d5bebc5f37a) (Version: 1.0.0.0) FS22_buyProductionInput
+Available mod: (Hash: 99937ad1b4a3a7d1c917f9212c5809cc) (Version: 1.0.0.0) FS22_Caravan
+Warning: Duplicate l10n entry 'object_farmhouse' in mod 'FS22_Caravan'. Ignoring this definition.
+Available mod: (Hash: 909c6e7a26bf909b479d5642c02ed082) (Version: 4.0.0.0) FS22_Claas_Krone_Baler_Pack_With_Lizard_R90
+Available mod:  (Version: 1.0.0.0) FS22_Collect900_Poplar_SugarCane
+Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_Collect900_Poplar_SugarCane to use it in multiplayer.
+Available mod: (Hash: 260aa3173b80d481818e4ee733507080) (Version: 1.0.0.2) FS22_cookieFactory
+Available mod: (Hash: 1d81cb3d92224431ae94a220129ab6da) (Version: 7.2.0.5) FS22_Courseplay
+Available mod: (Hash: 3bed63243fd214c4ef06f125d7e5c023) (Version: 1.0.0.1) FS22_CowFoodMixer
+Available mod: (Hash: 1eee9345e99c002faa4e248a9d210ddc) (Version: 1.0.0.0) FS22_DamageBarSelection
+Available mod: (Hash: 756ba8398dc8adb1ac90bbdf1432efd7) (Version: 1.0.0.0) FS22_Dark_Forest_The_Next_Chapter
+Available mod: (Hash: 9d4ce918caa240f6c186d0a53a62103e) (Version: 1.0.0.0) FS22_Dark_Forest_The_Next_Chapter_Modded
+Available mod: (Hash: 2730b4c7a3c2abf6335bf9bb195e7552) (Version: 1.0.0.0) FS22_Donut_Production
+Available mod: (Hash: 09d4ff5da3c6f3a5e41d240cb0d59647) (Version: 2.0.0.1) FS22_dropdeckTrailer53Ft_AutoPack_crossplay
+Available mod: (Hash: c69e7762899893a1dd19d4c0027e119d) (Version: 1.3.0.2) FS22_EasyDevControls
+Available mod: (Hash: 1b5583e7bf8ffec8ebeb8b0e89e2b384) (Version: 1.0.0.0) FS22_ExtendedBaleWrapColors
+Available mod: (Hash: cec87c7c447dc9e2e78331cc952e6900) (Version: 1.0.0.0) FS22_Farm_Sawmill
+Available mod: (Hash: 91b5fe1a5683a4ac7cd8073809497466) (Version: 1.0.0.0) FS22_Fiat619
+Available mod: (Hash: 4de971ed2dc9d1d58305599a05d0e24f) (Version: 1.0.1.1) FS22_foragePickup
+Available mod: (Hash: 3b7bc9d3c9ad4321365239e0efaf61c6) (Version: 1.0.0.0) FS22_FreeFences
+Available mod: (Hash: a53ecd42a5fba31139606c1161699d51) (Version: 1.0.0.0) FS22_FreeLandscapingTools
+Available mod: (Hash: 6e4f8f5c54a96b2ef77117d5ecb357bb) (Version: 1.0.0.0) FS22_FreeWaterPumpsandTanks_Modded
+Available mod: (Hash: 27390db41a0e2c4f1dbdc7a44457a74c) (Version: 1.0.0.0) FS22_FullRefund
+Available mod: (Hash: 3e204409e988ffabaac738d719590427) (Version: 1.0.1.1) FS22_GL860_MultiPlanter
+Available mod: (Hash: 7a0a11997a49f7ec5b8dc2a05e5611be) (Version: 1.3.0.0) FS22_Gnadenthal
+Available mod: (Hash: c1c48ad60fea843ed0d7de160ba2eb23) (Version: 1.1.0.0) FS22_hayLoftBales
+Available mod: (Hash: 9d7b9537f5e3b8009b54850913091f10) (Version: 1.0.0.0) FS22_horschProntoDC_Modded
+Available mod: (Hash: 7f4f7ae1a0946229a6bfee6ca1751142) (Version: 1.0.0.0) FS22_HorseHelper
+Available mod: (Hash: f47587eaf4dae95b928475b7687bfb0f) (Version: 1.0.0.0) FS22_HorseStableRental
+Available mod: (Hash: a7d7c02239bef51536464e1488af4614) (Version: 1.0.0.1) FS22_HW80WoodTrailer
+Available mod: (Hash: 8bfefbf2f4a2f98bc6fd18e2e6a55c0d) (Version: 1.0.0.0) FS22_IBCtankfix
+Available mod: (Hash: 8d70cce2346f92bbd41d59ed9ed6d0bd) (Version: 1.0.0.0) FS22_LimitedPalletObjectFix
+Available mod: (Hash: 90577e3fdb629b99a664b736a9a82b80) (Version: 1.0.0.0) FS22_lizardTF840B
+Available mod: (Hash: 3d4bfef4107423c09c50e761518af6c2) (Version: 1.0.0.0) FS22_Lizard_MT
+Available mod: (Hash: b77fa7ff65ddc97122cca240997e59c7) (Version: 1.0.0.0) FS22_Lizard_TankUtility_Modded
+Available mod: (Hash: 8a54a63c6753e5ce05d4eadb392be2e6) (Version: 1.0.2.3) FS22_Lizard_Underbelly_Modded
+Available mod: (Hash: 078eb525596281f8bcf81db173eecd58) (Version: 1.5.0.0) FS22_LumberJack
+Available mod: (Hash: f79ab40fb763f3491181501781195c7d) (Version: 1.1.0.0) FS22_ManureFix
+dataS/character/humans/player/animations.i3d (403.39 ms)
+Available mod: (Hash: 078700e084c714e3a21b0116cf95ce21) (Version: 1.0.0.0) FS22_ManurePlatesPack
+dataS/character/humans/player/vehicleCharacterAnimations.i3d (1.84 ms)
+Available mod: (Hash: f0177ea3516805448c49439bdb0833e8) (Version: 1.0.0.2) FS22_Measure
+Available mod: (Hash: da7f2494915260a9a5696dfc4be89389) (Version: 1.1.0.0) FS22_mobileWorkshop
+Available mod: (Hash: 88b1cab0d260b3bc7f4d4fe819e37d85) (Version: 1.0.0.0) FS22_Modern_Sugar_Factory
+Available mod: (Hash: d2c1261aa7fc9c96a0dd53b47d9e90d0) (Version: 1.1.0.0) FS22_moreHoneyPalletPlaceOptions
+Available mod: (Hash: f7cd1cf6d2130c2aaad2722ab11fadde) (Version: 1.0.0.0) FS22_MultiCropGreenhouses
+Available mod: (Hash: decce612b7d461b797d47334a369e828) (Version: 1.1.1.0) FS22_MultiPurchasePallet
+Available mod: (Hash: dcd21bfacf6f89046c152d7049c37bd3) (Version: 1.0.1.0) FS22_MultiTrailer_Pack
+dataS/character/humans/npc/animations.i3d (37.57 ms)
+Available mod: (Hash: d49713a3ed3c8a72a4f1dc93d7d0cb54) (Version: 2.0.1.0) FS22_NewLands
+Available mod: (Hash: 4566f431b1240cca03b0b1af3a1d3929) (Version: 1.3.0.0) FS22_noMansLand
+Available mod: (Hash: 0bf065c9b4df6be0dba203691d5e2aae) (Version: 1.2.0.1) FS22_ObjectStorage
+Available mod: (Hash: 320676280bfaec4cdfa2ccb31b89bd0e) (Version: 1.0.0.0) FS22_oldFuelStationsPack
+Available mod: (Hash: 458b9b91c7eff362ea244af0d2ebcbb8) (Version: 1.0.0.0) FS22_Old_Workshop
+Available mod: (Hash: dff3186014b1909c42eef73484d22f49) (Version: 1.1.0.1) FS22_openAirGarden
+Available mod: (Hash: 7986a119fe50c5489aea0fbdd687ba15) (Version: 1.1.0.0) FS22_paintAndTerraformAnywhere
+Available mod: (Hash: 107396b03c9e8d37acc66984c24019c3) (Version: 1.0.1.0) FS22_PalletWarehouse
+Available mod: (Hash: 9d52c50702a26597d30ee1b6f4d48d53) (Version: 1.0.0.0) FS22_Pioneers_Tent
+Available mod: (Hash: 746b47d08ed5737c1d453a4c1cfdee00) (Version: 1.0.0.0) FS22_PizzaProduction
+Available mod: (Hash: fd16b5dbfb891808003f91780c93f7fe) (Version: 1.0.0.0) FS22_RealMower
+Available mod: (Hash: b0d73ab98685f6d3f7b5f3510a7363ea) (Version: 1.4.0.0) FS22_realSpeedLimit
+Available mod: (Hash: b9cd39cff426d4c487d791ab6ba6257d) (Version: 1.3.0.0) FS22_RisouxForest
+Available mod: (Hash: 24a2656de634e02956296761022c2558) (Version: 1.0.0.1) FS22_rottneH21D
+Available mod: (Hash: 857f33a65d1375efd1103afafd1b323f) (Version: 1.0.0.0) FS22_Scorpio710
+Available mod: (Hash: 0586abc3cc2e21831c892e044e7d5317) (Version: 1.0.0.0) FS22_Scorpio710_Modded
+Available mod: (Hash: 2be24ccbc8390491d1394eddaf5f3ac5) (Version: 1.0.0.3) FS22_sellEverything
+Available mod: (Hash: d79f00902e10e31090be5a88597acfcb) (Version: 1.0.0.0) FS22_shop
+Available mod: (Hash: dd38010e167dccda10d8a79591c1cc8c) (Version: 1.0.1.0) FS22_SilageFactory
+Available mod: (Hash: c8bd8dbc8a4a0b49018964af5f2283f1) (Version: 1.0.0.0) FS22_SmallPalletStorage
+Available mod: (Hash: 8f7afa132623c69f733c625db3f411f2) (Version: 1.0.0.0) FS22_TajfunEGV80AHK
+Available mod: (Hash: fea077b886733e1a390aef205b25984f) (Version: 1.0.0.0) FS22_Tempo_L_16_BD
+Available mod: (Hash: aabd4f76dba444a451aae03bd6cfb70d) (Version: 1.0.0.0) FS22_Tempo_L_16_BD_Modded
+Available mod: (Hash: 80689792230fb8109729c515a5f7244f) (Version: 1.0.1.0) FS22_theWesternWilds
+Available mod: (Hash: 9d852c906c0def271d355742b0c8b599) (Version: 1.0.0.0) FS22_TimberPlantation
+Available mod: (Hash: 5e9334a0d65a458677384c6056120070) (Version: 1.2.0.1) FS22_TLX_Phoenix
+Available mod: (Hash: c8b818414b30d3ea7ce86f5452b7c6f3) (Version: 1.0.2.0) FS22_TLX_X52_Logger
+Available mod: (Hash: de9361f8e19377d75e6d3e0d4286c48c) (Version: 1.0.0.1) FS22_treeSaplingPallet120
+Available mod: (Hash: bed250c4f01dd30dcf75db16edad598d) (Version: 1.0.0.0) FS22_UFO_10m3_lightMaterialBucket
+Available mod: (Hash: 80d92634dc1ffef52e0281b36c1dda21) (Version: 1.4.0.0) FS22_UniversalAutoload
+Available mod: (Hash: 893b0cff4bcf2629cb0a8e7cd983a896) (Version: 1.3.0.0) FS22_UniversalAutoloadModhubAddon
+Available mod: (Hash: dbb350ca0c2dc1a5acef758c658f843d) (Version: 1.2.0.0) FS22_UpgradableFactories
+Available mod: (Hash: 01d41eefe8fc0df285277bbb14f0dd3e) (Version: 1.2.0.0) FS22_VehicleControlAddon
+Available mod: (Hash: d617320210bc1d7319edd8a7d78ecf84) (Version: 1.0.0.0) FS22_Wilson_Pacesetter_Pack
+NVIDIA DLSS Minimum driver version was reported as : 445.0
+2023-07-24 13:54   Loaded 'vehicle' specializations
+2023-07-24 13:54   Loaded 'placeable' specializations
+2023-07-24 13:54   Loaded vehicle types
+2023-07-24 13:54   Loaded placeable types
+2023-07-24 13:54   Info:   Loaded construction brush types
+2023-07-24 13:54   Load mod: FS22_A_ProductionRevamp
+2023-07-24 13:54 Production Revamp: XML-Paths registered
+2023-07-24 13:54 Production Revamp: ProductionPoint Load overwritten
+2023-07-24 13:54 Production Revamp: ProductionPoint delete prepended
+2023-07-24 13:54 Production Revamp: ProductionPoint Update overwritten
+2023-07-24 13:54 Production Revamp: Production Point Load and Save XML overwritten
+2023-07-24 13:54 Production Revamp: Production Point Write/Read Stream Overwritten
+2023-07-24 13:54 Production Revamp: Missionfix - SellingStation overwritten
+2023-07-24 13:54 Production Revamp: Added new statistic for finances
+2023-07-24 13:54 Production Revamp: Loading complete
+2023-07-24 13:54 Production Revamp: Loading Pallet/Bale Spawner complete
+2023-07-24 13:54 Production Revamp: Added functions for buying Inputs in Production Gui
+2023-07-24 13:54 Production Revamp: ProductionPoint Set & Get DistributionMode Overwritten
+2023-07-24 13:54 Production Revamp: ProductionChain Distribution System overwritten
+2023-07-24 13:54 Production Revamp: Added functions for changing and reading Input Priority
+2023-07-24 13:54 Production Revamp: Changed Production(180), Pallet(unlimited) and FillType(512) Limit
+2023-07-24 13:54 Production Revamp: Production Gui overwritten #2
+2023-07-24 13:54 Production Revamp: Production Gui overwritten
+2023-07-24 13:54 Production Revamp: Added extendet functionalities
+2023-07-24 13:54 FS22_A_ProductionRevamp - init SiloObjectFillLevelSpecialization(Version: 0.3.3.1)
+2023-07-24 13:54 FS22_A_ProductionRevamp - init SiloDisplaySpecialization(Version: 1.0.0.0)
+2023-07-24 13:54 FS22_A_ProductionRevamp - init ProductionObjectFillLevelSpecialization(Version: 0.1.1.1)
+2023-07-24 13:54 FS22_A_ProductionRevamp - init ProductionDisplaySpecialization(Version: 1.0.0.0)
+2023-07-24 13:54 FS22_A_ProductionRevamp - init SiloPalletSpawnerSpecialization(Version: 2.4.2.0)
+2023-07-24 13:54   Load mod: FS22_Animals_Placeables_Pack
+2023-07-24 13:54   Load mod: FS22_AutoDrive
+2023-07-24 13:54   Load mod: FS22_BalerHitchPack
+2023-07-24 13:54   Load mod: FS22_buyProductionInput
+2023-07-24 13:54   Load mod: FS22_Caravan
+2023-07-24 13:54   Load mod: FS22_Claas_Krone_Baler_Pack_With_Lizard_R90
+2023-07-24 13:54   Load mod: FS22_Collect900_Poplar_SugarCane
+2023-07-24 13:54   Load mod: FS22_cookieFactory
+2023-07-24 13:54   Load mod: FS22_Courseplay
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_Courseplay/img/signs/normal.i3d (0.71 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_Courseplay/img/signs/start.i3d (0.68 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_Courseplay/img/signs/stop.i3d (0.61 ms)
+2023-07-24 13:54   Load mod: FS22_CowFoodMixer
+2023-07-24 13:54   Load mod: FS22_DamageBarSelection
+2023-07-24 13:54   Load mod: FS22_Donut_Production
+2023-07-24 13:54   Load mod: FS22_dropdeckTrailer53Ft_AutoPack_crossplay
+2023-07-24 13:54   Load mod: FS22_EasyDevControls
+2023-07-24 13:54   Load mod: FS22_ExtendedBaleWrapColors
+2023-07-24 13:54   Load mod: FS22_Farm_Sawmill
+2023-07-24 13:54   Load mod: FS22_Fiat619
+2023-07-24 13:54   Load mod: FS22_foragePickup
+2023-07-24 13:54   Load mod: FS22_FreeFences
+2023-07-24 13:54   Load mod: FS22_FreeLandscapingTools
+2023-07-24 13:54   Load mod: FS22_FreeWaterPumpsandTanks_Modded
+2023-07-24 13:54   Load mod: FS22_FullRefund
+2023-07-24 13:54   Load mod: FS22_GL860_MultiPlanter
+2023-07-24 13:54   Load mod: FS22_hayLoftBales
+2023-07-24 13:54   Load mod: FS22_horschProntoDC_Modded
+2023-07-24 13:54   Load mod: FS22_HorseHelper
+2023-07-24 13:54   Load mod: FS22_HW80WoodTrailer
+2023-07-24 13:54   Load mod: FS22_IBCtankfix
+2023-07-24 13:54   Load mod: FS22_LimitedPalletObjectFix
+2023-07-24 13:54   Load mod: FS22_Lizard_MT
+2023-07-24 13:54   Load mod: FS22_Lizard_TankUtility_Modded
+2023-07-24 13:54   Load mod: FS22_Lizard_Underbelly_Modded
+2023-07-24 13:54   Load mod: FS22_lizardTF840B
+2023-07-24 13:54   Load mod: FS22_LumberJack
+2023-07-24 13:54   Load mod: FS22_ManureFix
+2023-07-24 13:54   Load mod: FS22_ManurePlatesPack
+2023-07-24 13:54   Load mod: FS22_Measure
+2023-07-24 13:54   Load mod: FS22_mobileWorkshop
+2023-07-24 13:54   Load mod: FS22_Modern_Sugar_Factory
+2023-07-24 13:54   Load mod: FS22_moreHoneyPalletPlaceOptions
+2023-07-24 13:54   Load mod: FS22_MultiCropGreenhouses
+2023-07-24 13:54   Load mod: FS22_MultiPurchasePallet
+2023-07-24 13:54   Load mod: FS22_MultiTrailer_Pack
+2023-07-24 13:54   Load mod: FS22_ObjectStorage
+2023-07-24 13:54   Load mod: FS22_Old_Workshop
+2023-07-24 13:54   Load mod: FS22_oldFuelStationsPack
+2023-07-24 13:54   Load mod: FS22_openAirGarden
+2023-07-24 13:54   Load mod: FS22_paintAndTerraformAnywhere
+2023-07-24 13:54   Load mod: FS22_PalletWarehouse
+2023-07-24 13:54 FS22_PalletWarehouse - init APalletSilo(Version: 2.2.0.0)
+2023-07-24 13:54 FS22_PalletWarehouse - init SiloObjectFillLevelSpezialisation(Version: 0.3.1.0)
+2023-07-24 13:54   Load mod: FS22_Pioneers_Tent
+2023-07-24 13:54   Load mod: FS22_PizzaProduction
+2023-07-24 13:54   Load mod: FS22_RealMower
+2023-07-24 13:54   Load mod: FS22_realSpeedLimit
+2023-07-24 13:54   Load mod: FS22_RisouxForest
+2023-07-24 13:54   Load mod: FS22_rottneH21D
+2023-07-24 13:54   Load mod: FS22_Scorpio710
+2023-07-24 13:54   Load mod: FS22_Scorpio710_Modded
+2023-07-24 13:54   Load mod: FS22_sellEverything
+2023-07-24 13:54   Load mod: FS22_shop
+2023-07-24 13:54   Load mod: FS22_SilageFactory
+2023-07-24 13:54   Load mod: FS22_SmallPalletStorage
+2023-07-24 13:54 Production_Revamp: Testing Mod FS22_SmallPalletStorage for Version: 1.2.0.16, Revamp Version 1.4.1.4 was found.
+2023-07-24 13:54 FS22_SmallPalletStorage - init RealMultiFruitSiloSpecialization(Version: 0.1.0.0)
+2023-07-24 13:54 FS22_SmallPalletStorage - init AnimationOnSiloFillLevelChangeSpecialization(Version: 0.1.0.0)
+2023-07-24 13:54   Load mod: FS22_TajfunEGV80AHK
+2023-07-24 13:54   Load mod: FS22_Tempo_L_16_BD
+2023-07-24 13:54   Load mod: FS22_Tempo_L_16_BD_Modded
+2023-07-24 13:54   Load mod: FS22_TimberPlantation
+2023-07-24 13:54 Production_Revamp: Testing Mod FS22_TimberPlantation for Version: 1.3.0.0, Revamp Version 1.4.1.4 was found.
+2023-07-24 13:54   Load mod: FS22_TLX_Phoenix
+2023-07-24 13:54   Load mod: FS22_TLX_X52_Logger
+2023-07-24 13:54   Load mod: FS22_treeSaplingPallet120
+2023-07-24 13:54   Load mod: FS22_UFO_10m3_lightMaterialBucket
+2023-07-24 13:54   Load mod: FS22_UniversalAutoload
+2023-07-24 13:54   Load mod: FS22_UniversalAutoloadModhubAddon
+2023-07-24 13:54   Load mod: FS22_UpgradableFactories
+2023-07-24 13:54   Load mod: FS22_VehicleControlAddon
+2023-07-24 13:54   Load mod: FS22_Wilson_Pacesetter_Pack
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'FS22_TLX_Phoenix.tlxPhoenix'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'cottonHarvester'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'loaderVehicle'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'carFillable'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'selfPropelledMower'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'inlineWrapper'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'tractorReverseDriving'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'FS22_Fiat619.camion'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'woodTruck'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'vineHarvester'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'handToolMower'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'selfPropelledLeveler'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'FS22_lizardTF840B.tf840b'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'woodHarvester'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'baseDrivable'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'conveyorBelt'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'car'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'drivableMixerWagon'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'FS22_lizardTF840B.tf840bForwarder'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'selfPropelledSprayer'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'forwarder'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'teleHandler'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'woodCrusherDrivable'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'combineCutterFruitPreparer'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'pickupConveyorBelt'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'combineDrivable'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'selfPropelledManureBarrel'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'tractor'
+2023-07-24 13:54   adding vehicleControlAddon to vehicleType 'balerDrivable'
+2023-07-24 13:54   Register configuration 'baseColor'
+2023-07-24 13:54   Register configuration 'design'
+2023-07-24 13:54   Register configuration 'designColor'
+2023-07-24 13:54   Register configuration 'vehicleType'
+2023-07-24 13:54   Register configuration 'design2'
+2023-07-24 13:54   Register configuration 'design3'
+2023-07-24 13:54   Register configuration 'design4'
+2023-07-24 13:54   Register configuration 'design5'
+2023-07-24 13:54   Register configuration 'design6'
+2023-07-24 13:54   Register configuration 'design7'
+2023-07-24 13:54   Register configuration 'design8'
+2023-07-24 13:54   Register configuration 'ai'
+2023-07-24 13:54 data/shared/ai/trafficCollision.i3d (0.49 ms)
+2023-07-24 13:54   Register configuration 'inputAttacherJoint'
+2023-07-24 13:54   Register configuration 'attacherJoint'
+2023-07-24 13:54   Register workAreaType 'BALER'
+2023-07-24 13:54   Register configuration 'wrappingColor'
+2023-07-24 13:54   Register configuration 'wrappingAnimation'
+2023-07-24 13:54   Register configuration 'baseMaterial'
+2023-07-24 13:54   Register configuration 'designMaterial'
+2023-07-24 13:54   Register configuration 'designMaterial2'
+2023-07-24 13:54   Register configuration 'designMaterial3'
+2023-07-24 13:54   Register configuration 'multipleItemPurchaseAmount'
+2023-07-24 13:54   Register workAreaType 'COMBINECHOPPER'
+2023-07-24 13:54   Register workAreaType 'COMBINESWATH'
+2023-07-24 13:54   Register configuration 'cover'
+2023-07-24 13:54   Register workAreaType 'CULTIVATOR'
+2023-07-24 13:54   Register workAreaType 'CUTTER'
+2023-07-24 13:54   Register configuration 'dischargeable'
+2023-07-24 13:54   Register configuration 'fillUnit'
+2023-07-24 13:54   Register configuration 'fillVolume'
+2023-07-24 13:54   Register configuration 'folding'
+2023-07-24 13:54   Register workAreaType 'FORAGEWAGON'
+2023-07-24 13:54   Register configuration 'frontloader'
+2023-07-24 13:54   Register workAreaType 'FRUITPREPARER'
+2023-07-24 13:54   Register configuration 'motor'
+2023-07-24 13:54   Register workAreaType 'MULCHER'
+2023-07-24 13:54   Register workAreaType 'MOWER'
+2023-07-24 13:54   Register configuration 'pipe'
+2023-07-24 13:54   Register configuration 'plow'
+2023-07-24 13:54   Register workAreaType 'PLOW'
+2023-07-24 13:54   Register configuration 'powerConsumer'
+2023-07-24 13:54   Register configuration 'ridgeMarker'
+2023-07-24 13:54   Register workAreaType 'RIDGEMARKER'
+2023-07-24 13:54   Register configuration 'roller'
+2023-07-24 13:54   Register workAreaType 'ROLLER'
+2023-07-24 13:54   Register workAreaType 'SALTSPREADER'
+2023-07-24 13:54   Register workAreaType 'SOWINGMACHINE'
+2023-07-24 13:54   Register workAreaType 'SPRAYER'
+2023-07-24 13:54   Register workAreaType 'STONEPICKER'
+2023-07-24 13:54   Register workAreaType 'STUMPCUTTER'
+2023-07-24 13:54   Register workAreaType 'TEDDER'
+2023-07-24 13:54   Register configuration 'tensionBelts'
+2023-07-24 13:54   Register configuration 'trailer'
+2023-07-24 13:54   Register configuration 'treeSaplingType'
+2023-07-24 13:54   Register configuration 'variableWorkWidth'
+2023-07-24 13:54   Register workAreaType 'WEEDER'
+2023-07-24 13:54   Register configuration 'wheel'
+2023-07-24 13:54   Register configuration 'rimColor'
+2023-07-24 13:54   Register workAreaType 'WINDROWER'
+2023-07-24 13:54   Register workAreaType 'DEFAULT'
+2023-07-24 13:54   Register workAreaType 'AUXILIARY'
+2023-07-24 13:54   Register configuration 'workArea'
+2023-07-24 13:54   Register configuration 'workMode'
+2023-07-24 13:54   Register configuration 'randomWrapColors'
+2023-07-24 13:54   Register configuration 'universalAutoload'
+2023-07-24 13:54   Info: Loading ConnectionHoses from 'data/shared/connectionHoses/connectionHoses.xml'
+2023-07-24 13:54 data/shared/connectionHoses/hoses.i3d (26.45 ms)
+2023-07-24 13:54 data/shared/connectionHoses/connectors.i3d (5.41 ms)
+2023-07-24 13:54 data/shared/connectionHoses/hoseMaterialHolder.i3d (0.75 ms)
+2023-07-24 13:54   Warning: Unknown FillType 'LAVENDER' in fillTypeCategory 'ADDITIONAL_STORAGE_BALES'!
+2023-07-24 13:54   Warning: Unknown FillType 'DRYALFALFA_WINDROW' in fillTypeCategory 'ADDITIONAL_STORAGE_BALES'!
+2023-07-24 13:54   Warning: Unknown FillType 'ALFALFA_WINDROW' in fillTypeCategory 'ADDITIONAL_STORAGE_BALES'!
+2023-07-24 13:54   Warning: Unknown FillType 'CRACKEDCORN' in fillTypeCategory 'LOC_GRAINMILL'!
+2023-07-24 13:54   Warning: Unknown FillType 'CORNMEAL' in fillTypeCategory 'LOC_GRAINMILL'!
+2023-07-24 13:54   Warning: Unknown FillType 'CRISPS' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'KETCHUP' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'SALAD' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'SYRUP' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'PELLETS' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'SOYMILK' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'FOOD' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'OBJECT' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'LIQUID' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'REP' in fillTypeCategory 'LOC_PACKING'!
+2023-07-24 13:54   Warning: Unknown FillType 'SORTEDPOTATOES' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'NOODLES' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'TOMATOSAUCE' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'MIXSALAD' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'OATDRINK' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'OATMEAL' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'POPCORN' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'SOYDRINK' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'STRAWBERRYICECREAM' in fillTypeCategory 'LOC_FARMPROD'!
+2023-07-24 13:54   Warning: Unknown FillType 'DONUTS' in fillTypeCategory 'LOC_DONUT'!
+2023-07-24 13:54   Warning: Unknown FillType 'MAPLESYRUP' in fillTypeCategory 'LOC_OTHERS'!
+2023-07-24 13:54   Warning: Unknown FillType 'WASTEPOTATO' in fillTypeCategory 'LOC_SEEDPOTATO'!
+2023-07-24 13:54   Warning: Unknown FillType 'SEEDPOTATO' in fillTypeCategory 'LOC_SEEDPOTATO'!
+2023-07-24 13:54   Warning: Unknown FillType 'PREMIUMPOTATO' in fillTypeCategory 'LOC_SEEDPOTATO'!
+2023-07-24 13:54   Warning: Unknown FillType 'PREMIUMBAGGED' in fillTypeCategory 'LOC_SEEDPOTATO'!
+2023-07-24 13:54   Warning: Unknown FillType 'BAGGEDSEEDPOTATO' in fillTypeCategory 'LOC_SEEDPOTATO'!
+2023-07-24 13:54   Warning: Unknown FillType 'EMPTYPALLET' in fillTypeCategory 'LOC_PAPER'!
+2023-07-24 13:54   Warning: Unknown FillType 'PAPER' in fillTypeCategory 'LOC_PAPER'!
+2023-07-24 13:54   Warning: Unknown FillType 'CARDBOARD' in fillTypeCategory 'LOC_PAPER'!
+2023-07-24 13:54   Warning: Unknown FillType 'OATMILK' in fillTypeCategory 'LOC_PLANTY'!
+2023-07-24 13:54   Warning: Unknown FillType 'SOYACUISINE' in fillTypeCategory 'LOC_PLANTY'!
+2023-07-24 13:54   Warning: Unknown FillType 'SKYR' in fillTypeCategory 'LOC_PLANTY'!
+2023-07-24 13:54   Warning: Unknown FillType 'TOFU' in fillTypeCategory 'LOC_PLANTY'!
+2023-07-24 13:54   Warning: Unknown FillType 'TOFUROSSO' in fillTypeCategory 'LOC_PLANTY'!
+2023-07-24 13:54   Warning: Unknown FillType 'SMOKEDTOFU' in fillTypeCategory 'LOC_PLANTY'!
+2023-07-24 13:54   Warning: Unknown FillType 'BEAMS' in fillTypeCategory 'LOC_BARREL'!
+2023-07-24 13:54   Warning: Unknown FillType 'EMPTYBARREL' in fillTypeCategory 'LOC_BARREL'!
+2023-07-24 13:54   Warning: Unknown FillType 'BARKMULCH' in fillTypeCategory 'LOC_BARREL'!
+2023-07-24 13:54   Warning: Unknown FillType 'CRISPS' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'KETCHUP' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'SALAD' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'SYRUP' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'MAPLESYRUP' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'SOYMILK' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'FOOD' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'LIQUID' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'NOODLES' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'TOMATOSAUCE' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'MIXSALAD' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'SOYDRINK' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'STRAWBERRYICECREAM' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'DONUTS' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'TOFU' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'TOFUROSSO' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'SMOKEDTOFU' in fillTypeCategory 'LOC_REFER'!
+2023-07-24 13:54   Warning: Unknown FillType 'COFFEE' in fillTypeCategory 'LOC_SA'!
+2023-07-24 13:54   Warning: Unknown FillType 'ROASTED_COFFEE' in fillTypeCategory 'LOC_SA'!
+2023-07-24 13:54   Warning: Unknown FillType 'MINERAL' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'ALMOND' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'CLEAN_OLIVE' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'OLIVES_LEAVES' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'COMPOST' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'PALLET' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'MELON' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'SANDIA' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'PAPEL' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'CARTON' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'OIL_SUNFLOWER' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'OIL_CANOLA' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'OIL_OLIVE' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'OIL_ALMOND' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'OIL_MAIZE' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'BIOGAS' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'BOX' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'DONUTS' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'CEREALCHOCO' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'SHEEPCHEESE' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'MERMELADAFRESA' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'MERMELADATOMATE' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'ZUMOTOMATE' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'BATIDOFRESA' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'BATIDOCHOCOLATE' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'BATIDO2' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'BUTTEROIL' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'PELLETS' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'CHIPS' in fillTypeCategory 'LOC_CORONELLA'!
+2023-07-24 13:54   Warning: Unknown FillType 'IRONORE' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'ARMOIRE' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'BARREL' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'BATHTUB' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'BIRDHOUSE' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'BOWL' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'BUCKET' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'CARTONROLL' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'CATTREE' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'CHAIR' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'DOGHOUSE' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'EASEL' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'FLOORTILES' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'METAL' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'PAPERROLL' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'PEPPERGRINDER' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'PICTUREFRAME' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'PLANKS' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'PREFABWALL' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'SHINGLE' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'STAIRCASERAILING' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'TABLE' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'WOODBEAM' in fillTypeCategory 'LOC_PLATINUM'!
+2023-07-24 13:54   Warning: Unknown FillType 'PIPE' in fillTypeCategory 'LOC_PINEY'!
+2023-07-24 13:54   Warning: Unknown FillType 'STEEL' in fillTypeCategory 'LOC_PINEY'!
+2023-07-24 13:54   Warning: Unknown FillType 'GOLD' in fillTypeCategory 'LOC_PINEY'!
+2023-07-24 13:54   Warning: Unknown FillType 'GOLDBAR' in fillTypeCategory 'LOC_PINEY'!
+2023-07-24 13:54   Warning: Unknown FillType 'CEMENT' in fillTypeCategory 'LOC_PINEY'!
+2023-07-24 13:54   Warning: Unknown FillType 'BRICKS' in fillTypeCategory 'LOC_PINEY'!
+2023-07-24 13:54   Warning: Unknown FillType 'ASPHALTPALLET' in fillTypeCategory 'LOC_PINEY'!
+2023-07-24 13:54   Warning: Unknown FillType 'PROPANE' in fillTypeCategory 'LOC_EXTRAS'!
+2023-07-24 13:54 data/objects/roundbales/roundbale125/roundbale125.i3d (3.04 ms)
+2023-07-24 13:54 data/objects/roundbales/roundbale150/roundbale150.i3d (1.63 ms)
+2023-07-24 13:54 data/objects/roundbales/roundbale180/roundbale180.i3d (1.58 ms)
+2023-07-24 13:54 data/objects/squarebales/squarebale240/squarebale240.i3d (2.73 ms)
+2023-07-24 13:54 data/objects/squarebales/squarebale220/squarebale220.i3d (1.93 ms)
+2023-07-24 13:54 data/objects/squarebales/squarebale180/squarebale180.i3d (1.79 ms)
+2023-07-24 13:54 data/objects/squarebales/squarebale120/squarebale120.i3d (1.66 ms)
+2023-07-24 13:54 data/objects/squarebales/squarebale120/packedSquareBale120.i3d (2.89 ms)
+2023-07-24 13:54 data/objects/cottonModules/cottonRoundbale238.i3d (1.05 ms)
+2023-07-24 13:54 data/objects/cottonModules/cottonSquarebale488.i3d (1.24 ms)
+2023-07-24 13:54 data/objects/roundbales/biomass/biomassBale125.i3d (3.95 ms)
+2023-07-24 13:54 data/shared/aiMarker.i3d (0.23 ms)
+2023-07-24 13:54 dataS/character/animals/wild/crow/crow.i3d (9.10 ms)
+2023-07-24 13:54   Info: resetSplitShapes()
+2023-07-24 13:54 data/shared/alphabet/fontMaterialHolder.i3d (17.90 ms)
+2023-07-24 13:54 data/maps/mapFR/licensePlates/licensePlatesFR.i3d (1.91 ms)
+2023-07-24 13:54 data/effects/cutter/maize/maize_harvestReadyDry.i3d (15.07 ms)
+2023-07-24 13:54 data/effects/cutter/sunflower/sunflower_harvestReady.i3d (9.32 ms)
+2023-07-24 13:54 data/effects/cutter/maize/maize_harvestReadyGreen.i3d (7.63 ms)
+2023-07-24 13:54 data/effects/cutter/grass/grass_greenBig.i3d (9.04 ms)
+2023-07-24 13:54 data/effects/cutter/grass/grass_harvestReady.i3d (7.45 ms)
+2023-07-24 13:54 data/effects/cutter/sunflower/sunflower_greenBig.i3d (14.44 ms)
+2023-07-24 13:54 data/effects/cutter/wheat/wheat_greenBig.i3d (7.17 ms)
+2023-07-24 13:54 data/effects/cutter/wheat/wheat_harvestReady.i3d (9.13 ms)
+2023-07-24 13:54 data/effects/cutter/barley/barley_greenBig.i3d (7.15 ms)
+2023-07-24 13:54 data/effects/cutter/barley/barley_harvestReady.i3d (9.34 ms)
+2023-07-24 13:54 data/effects/cutter/oat/oat_greenBig.i3d (8.93 ms)
+2023-07-24 13:54 data/effects/cutter/oat/oat_harvestReady.i3d (12.45 ms)
+2023-07-24 13:54 data/effects/cutter/canola/canola_greenBig.i3d (9.48 ms)
+2023-07-24 13:54 data/effects/cutter/canola/canola_harvestReady.i3d (11.53 ms)
+2023-07-24 13:54 data/effects/cutter/soybean/soybean_greenBig.i3d (18.81 ms)
+2023-07-24 13:54 data/effects/cutter/soybean/soybean_harvestReady.i3d (18.57 ms)
+2023-07-24 13:54 data/effects/cutter/sorghum/sorghum_greenBig.i3d (8.20 ms)
+2023-07-24 13:54 data/effects/cutter/sorghum/sorghum_harvestReady.i3d (11.74 ms)
+2023-07-24 13:54 data/effects/cutter/maize/maize_fruits.i3d (2.89 ms)
+2023-07-24 13:54 data/effects/cutter/sunflower/sunflower_fruits.i3d (2.48 ms)
+2023-07-24 13:54 data/effects/cutter/maize/maize_threshing.i3d (1.83 ms)
+2023-07-24 13:54 data/effects/cutter/sunflower/sunflower_threshing.i3d (1.65 ms)
+2023-07-24 13:54 data/effects/fertilizer/fertilizer.i3d (8.57 ms)
+2023-07-24 13:54 data/effects/chopper/strawChopper.i3d (14.81 ms)
+2023-07-24 13:54 data/effects/tedder/tedder.i3d (5.77 ms)
+2023-07-24 13:54 data/effects/windrower/windrower.i3d (7.29 ms)
+2023-07-24 13:54 data/effects/cultivator/cultivator.i3d (22.30 ms)
+2023-07-24 13:54 data/effects/plow/plow.i3d (13.47 ms)
+2023-07-24 13:54 data/effects/pickup/pickupIN.i3d (10.26 ms)
+2023-07-24 13:54 data/effects/pickup/pickupOUT.i3d (0.96 ms)
+2023-07-24 13:54 data/effects/mower/mower.i3d (16.84 ms)
+2023-07-24 13:54 data/effects/mixerWagon/mixerWagon.i3d (3.00 ms)
+2023-07-24 13:54 data/effects/grape/grape_fruitsLeaves.i3d (1.83 ms)
+2023-07-24 13:54 data/effects/grape/grape_fruitsClean.i3d (0.41 ms)
+2023-07-24 13:54 data/effects/grape/grape_fruitsHarvested.i3d (0.64 ms)
+2023-07-24 13:54 data/effects/grape/grape_threshing.i3d (0.43 ms)
+2023-07-24 13:54 data/effects/grape/grape_prePruner.i3d (0.53 ms)
+2023-07-24 13:54 data/effects/olive/olive_fruitsLeaves.i3d (3.54 ms)
+2023-07-24 13:54 data/effects/olive/olive_fruitsClean.i3d (3.37 ms)
+2023-07-24 13:54 data/effects/olive/olive_threshing.i3d (1.67 ms)
+2023-07-24 13:54 data/effects/manure/manure.i3d (9.13 ms)
+2023-07-24 13:54 data/effects/stone/small/stone.i3d (3.32 ms)
+2023-07-24 13:54 data/effects/stone/medium/stone.i3d (2.26 ms)
+2023-07-24 13:54 data/effects/stone/big/stone.i3d (2.50 ms)
+2023-07-24 13:54 data/effects/wood/wood_cutter.i3d (1.29 ms)
+2023-07-24 13:54 data/effects/sugarcane/sugarcane_prepareFruit.i3d (1.74 ms)
+2023-07-24 13:54 data/effects/sugarcane/sugarcane_chopper.i3d (2.76 ms)
+2023-07-24 13:54 data/effects/sugarcane/sugarcane_chaffer.i3d (0.94 ms)
+2023-07-24 13:54 data/effects/sugarcane/sugarcane_cutter.i3d (1.37 ms)
+2023-07-24 13:54 data/effects/snow/snowPieces.i3d (9.21 ms)
+2023-07-24 13:54 data/effects/snow/snowDust.i3d (3.47 ms)
+2023-07-24 13:54 data/sky/sky.i3d (0.58 ms)
+2023-07-24 13:54 data/sky/rain.i3d (0.71 ms)
+2023-07-24 13:54 data/sky/snow.i3d (0.60 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/maps/map.i3d (1415.59 ms)
+2023-07-24 13:54 data/foliage/decoFoliage/decoFoliageFR.i3d (12.80 ms)
+2023-07-24 13:54 data/foliage/decoBush/decoBush.i3d (22.50 ms)
+2023-07-24 13:54 data/foliage/groundFoliage/groundFoliage.i3d (49.20 ms)
+2023-07-24 13:54 data/foliage/meadow/meadowFR.i3d (22.24 ms)
+2023-07-24 13:54 data/foliage/grass/grass.i3d (2.52 ms)
+2023-07-24 13:54 data/foliage/wheat/wheat.i3d (13.80 ms)
+2023-07-24 13:54 data/foliage/canola/canola.i3d (11.39 ms)
+2023-07-24 13:54 data/foliage/barley/barley.i3d (12.68 ms)
+2023-07-24 13:54 data/foliage/maize/maize.i3d (16.93 ms)
+2023-07-24 13:54 data/foliage/potato/potato.i3d (13.65 ms)
+2023-07-24 13:54 data/foliage/potato/potatoHaulm.i3d (0.98 ms)
+2023-07-24 13:54 data/foliage/sugarbeet/sugarbeet.i3d (12.81 ms)
+2023-07-24 13:54 data/foliage/sugarbeet/sugarbeetHaulm.i3d (0.67 ms)
+2023-07-24 13:54 data/foliage/sunflower/sunflower.i3d (6.07 ms)
+2023-07-24 13:54 data/foliage/soybean/soybean.i3d (12.45 ms)
+2023-07-24 13:54 data/foliage/oilseedRadish/oilseedRadish.i3d (5.22 ms)
+2023-07-24 13:54 data/foliage/poplar/poplar.i3d (2.54 ms)
+2023-07-24 13:54 data/foliage/oat/oat.i3d (2.77 ms)
+2023-07-24 13:54 data/foliage/sugarcane/sugarcane.i3d (4.39 ms)
+2023-07-24 13:54 data/foliage/sugarcane/sugarCaneHaulm.i3d (0.66 ms)
+2023-07-24 13:54 data/foliage/cotton/cotton.i3d (5.16 ms)
+2023-07-24 13:54 data/foliage/sorghum/sorghum.i3d (11.79 ms)
+2023-07-24 13:54 data/foliage/olive/olive.i3d (9.45 ms)
+2023-07-24 13:54 data/foliage/grape/grape.i3d (0.42 ms)
+2023-07-24 13:54 Info: transform group 'C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/savegame3/densityMap_fruits.gdm' has elements very far out from the cell edge (56.51% expansion)
+2023-07-24 13:54 data/foliage/weed/weed.i3d (8.43 ms)
+2023-07-24 13:54 data/foliage/stone/stone.i3d (1.95 ms)
+2023-07-24 13:54 FoliageTransformGroup 'C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/savegame3/densityMap_fruits.gdm' may need space for up to 3849004 instances (1819 per cell x 2116 cells)
+2023-07-24 13:54 FoliageTransformGroup 'C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/savegame3/densityMap_weed.gdm' may need space for up to 524288 instances (512 per cell x 1024 cells)
+2023-07-24 13:54 FoliageTransformGroup 'C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/savegame3/densityMap_stones.gdm' may need space for up to 524288 instances (512 per cell x 1024 cells)
+2023-07-24 13:54   Info: [AD] Start register later loaded mods...
+2023-07-24 13:54   Info: [AD] Start register later loaded mods end
+2023-07-24 13:54   Info: [AD] Map title: The Risoux Forest
+2023-07-24 13:54   Info: [AD] Parsed map title: The_Risoux_Forest
+2023-07-24 13:54   Info: [AutoDrive] Loading xml file from C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/savegame3/AutoDrive_config.xml
+2023-07-24 13:54   Info: [AutoDrive] Loaded 267 waypoints
+2023-07-24 13:54   Info: [AD] AutoDrive.readFromXML waypoints: 267
+2023-07-24 13:54   Info: [AD] AutoDrive.readFromXML markers: 3
+2023-07-24 13:54   Info: [AD] AutoDrive.readFromXML groups: 1
+2023-07-24 13:54   Info: [AD] ADUserDataManager: apply user settings
+2023-07-24 13:54   Info: [AD] ADUserDataManager: loaded data for 1 users
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_AutoDrive/drawing/line.i3d (0.83 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_AutoDrive/drawing/arrow.i3d (0.27 ms)
+2023-07-24 13:54   Info: [AutoDrive] Loaded mod version 2.0.0.9 (by Stephan). Full version number: 2.0.0.9
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_AutoDrive/drawing/sphere_small.i3d (0.19 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_AutoDrive/drawing/sphere.i3d (0.11 ms)
+2023-07-24 13:54 :19 [info lp376] Current version: 7.2.0.5, last version: 7.2.0.5
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_AutoDrive/drawing/marker.i3d (3.57 ms)
+2023-07-24 13:54 :19 [dbg13 lp376] Created directory at C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/Courses/FS22_RisouxForest.ModMap
+2023-07-24 13:54 :19 [dbg13 lp376] Created directory at C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/Courses/FS22_RisouxForest.ModMap/Singleplayer
+2023-07-24 13:54 :19 [dbg13 lp376] Created directory at C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/CustomFields/FS22_RisouxForest.ModMap
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_AutoDrive/drawing/marker_2.i3d (3.12 ms)
+2023-07-24 13:54 :19 [info lp376] Loading vehicle configuration from C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_Courseplay/config/VehicleConfigurations.xml ...
+2023-07-24 13:54 :19 [info lp376] Reading configuration for braud9070L.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 5.0
+2023-07-24 13:54 :19 [info lp376] \__ useVehicleSizeForMarkers = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for braud9090X.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 5.0
+2023-07-24 13:54 :19 [info lp376] \__ useVehicleSizeForMarkers = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for ventor4150.xml
+2023-07-24 13:54 :19 [info lp376] \__ raiseLate = true
+2023-07-24 13:54 :19 [info lp376] \__ lowerEarly = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for stego485Pro.xml
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_AutoDrive/drawing/marker_3.i3d (4.66 ms)
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 4.8
+2023-07-24 13:54 :19 [info lp376] Reading configuration for planter1775NT.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 12.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for planter4900.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 12.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for pov5xl.xml
+2023-07-24 13:54 :19 [info lp376] \__ raiseLate = true
+2023-07-24 13:54 :19 [info lp376] \__ lowerEarly = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for rbm2000.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -2.7
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 15.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for citan15001C.xml
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for fsx6372.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -2.4
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 12.0
+2023-07-24 13:54 :19 [info lp376] \__ balerUnloadDistance = -3.8
+2023-07-24 13:54 :19 [info lp376] Reading configuration for rootster604.xml
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for SE260.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -1.8
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for keiler2.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -2.0
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for sw4014.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -2.5
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for kuhnDeltis1302.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreCollisionBoxesWhenFolded = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for kuhnMetris4102.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreCollisionBoxesWhenFolded = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for poettingerNovaCatX8.xml
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 8.4
+2023-07-24 13:54 :19 [info lp376] Reading configuration for navigator6000.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreCollisionBoxesWhenFolded = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for salford4204.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 3.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for salford8312.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 9.0
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for titan11.xml
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 7.5
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for titan18.xml
+2023-07-24 13:54 :19 [info lp376] \__ raiseLate = true
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 9.0
+2023-07-24 13:54 :19 [info lp376] \__ lowerEarly = true
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for karat12.xml
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] \__ lowerEarly = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for koralin9840.xml
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for SWT7.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -2.2
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 9.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for 980AirCart.xml
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for xlAirDrill84.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 10.0
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for terminator18.xml
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for th1400.xml
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for st820.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 7.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for agrisemCultiplowPlatinum8m.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 7.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for mp122Ocea.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -1.2
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 5.0
+2023-07-24 13:54 :19 [info lp376] \__ useVehicleSizeForMarkers = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for us235.xml
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 24.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for z2840.xml
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 8.4
+2023-07-24 13:54 :19 [info lp376] Reading configuration for imperador3.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreCollisionBoxesWhenFolded = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for rubicon9000.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreCollisionBoxesWhenFolded = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for tm1410.xml
+2023-07-24 13:54 :19 [info lp376] Reading configuration for RB580.xml
+2023-07-24 13:54 :19 [info lp376] \__ baleCollectorOffset = 1.4
+2023-07-24 13:54 :19 [info lp376] Reading configuration for iXterB18.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreCollisionBoxesWhenFolded = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for iXtrackT4.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreCollisionBoxesWhenFolded = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for wrapper7850C.xml
+2023-07-24 13:54 :19 [info lp376] \__ baleCollectorOffset = 1.3
+2023-07-24 13:54 :19 [info lp376] Reading configuration for pw10012.xml
+2023-07-24 13:54 :19 [info lp376] \__ raiseLate = true
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 14.0
+2023-07-24 13:54 :19 [info lp376] \__ lowerEarly = true
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for ecomat.xml
+2023-07-24 13:54 :19 [info lp376] \__ raiseLate = true
+2023-07-24 13:54 :19 [info lp376] \__ lowerEarly = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for series3320.xml
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for series7950b.xml
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for series3420.xml
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for series71300.xml
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for optiJect8.xml
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 6.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for leitwolf.xml
+2023-07-24 13:54 :19 [info lp376] \__ movingToolIx = 2.0
+2023-07-24 13:54 :19 [info lp376] \__ armMovingToolIx = 1.0
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 6.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for ClaasCougar1500.xml
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 15.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for Jacto_NPK_5030.xml
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 49.8
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 22.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for spsl9.xml
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = 2.1
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 10.5
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 12.0
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for vector460.xml
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for vector620.xml
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for ursusT127.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -2.4
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] \__ balerUnloadDistance = -1.8
+2023-07-24 13:54 :19 [info lp376] Reading configuration for z586.xml
+2023-07-24 13:54 :19 [info lp376] \__ toolOffsetX = -2.5
+2023-07-24 13:54 :19 [info lp376] \__ baleCollectorOffset = 1.3
+2023-07-24 13:54 :19 [info lp376] \__ noReverse = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for claasCropSensor.xml
+2023-07-24 13:54 :19 [info lp376] \__ workingWidth = 18.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for bigBud747.xml
+2023-07-24 13:54 :19 [info lp376] \__ turnRadius = 9.0
+2023-07-24 13:54 :19 [info lp376] Reading configuration for jcb435s.xml
+2023-07-24 13:54 :19 [info lp376] \__ directionNodeOffsetZ = -0.7
+2023-07-24 13:54 :19 [info lp376] Reading configuration for leebPT350.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreCollisionBoxesWhenFolded = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for yp2425A.xml
+2023-07-24 13:54 :19 [info lp376] \__ implementWheelAlwaysOnGround = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for balePusher.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreBaleCollisionForward = true
+2023-07-24 13:54 :19 [info lp376] Reading configuration for EYM_balePusher.xml
+2023-07-24 13:54 :19 [info lp376] \__ ignoreBaleCollisionForward = true
+2023-07-24 13:54 :19 [info lp376] Loading vehicle configuration from C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/vehicleConfigurations.xml ...
+2023-07-24 13:54 :19 [info lp376] Vehicle configuration file C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/vehicleConfigurations.xml does not exist.
+2023-07-24 13:54 :19 [info lp376] Auto drive found: true
+2023-07-24 13:54 Removed: 'data/objects/pallets/liquidTank/fertilizerTank.xml' from Shop
+2023-07-24 13:54 Removed: 'data/objects/pallets/liquidTank/herbicideTank.xml' from Shop
+2023-07-24 13:54 LUMBERJACK SETTINGS
+2023-07-24 13:54   createWoodchips: false
+2023-07-24 13:54   maxWalkingSpeed: 4
+2023-07-24 13:54   maxRunningSpeed: 9
+2023-07-24 13:54   superStrengthValue: 1000
+2023-07-24 13:54   normalStrengthValue: 0.20000000298023
+2023-07-24 13:54   superDistanceValue: 12
+2023-07-24 13:54   normalDistanceValue: 3
+2023-07-24 13:54   cutAnywhere: true
+2023-07-24 13:54   maxCutDistance: 6
+2023-07-24 13:54   defaultCutDuration: 4
+2023-07-24 13:54 Removed: 'data/objects/pallets/treeSaplingPallet/treeSaplingPallet.xml' from Shop
+2023-07-24 13:54 IMPORT Universal Autoload global settings
+2023-07-24 13:54   >> Show Debug Display: false
+2023-07-24 13:54   >> Menu High Priority: true
+2023-07-24 13:54   >> Manual Loading Only: false
+2023-07-24 13:54   >> Automatic Tension Belts: true
+2023-07-24 13:54   >> Price Per Log: 0
+2023-07-24 13:54   >> Price Per Bale: 0
+2023-07-24 13:54   >> Price Per Pallet: 0
+2023-07-24 13:54   >> Minimum Log Length: 0
+2023-07-24 13:54 IMPORT user vehicle configurations
+2023-07-24 13:54 IMPORT user container configurations
+2023-07-24 13:54 IMPORT supported vehicle configurations
+2023-07-24 13:54   >> data/vehicles/welger/dk115/dk115.xml (2)
+2023-07-24 13:54   >> data/vehicles/brantner/dd24073/dd24073.xml (1)
+2023-07-24 13:54   >> data/vehicles/fliegl/dts59/dts59.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/bremerMaschinenbau/transportwagen/transportwagen.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/demco/steelDropDeck/steelDropDeck.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/lodeKing/renownTriAxleBeavertailLowDrop/renownTriAxleBeavertailLowDrop.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/krone/profiLiner/profiLiner.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/farmtech/dpw1800/dpw1800.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/kroeger/pwo24/pwo24.xml (1)
+2023-07-24 13:54   >> data/vehicles/kroeger/pwo24/pwo24.xml (2)
+2023-07-24 13:54   >> data/vehicles/kroeger/pwo24/pwo24.xml (3)
+2023-07-24 13:54   >> data/vehicles/boeckmann/mhal4320/mhal4320.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/boeckmann/kk301827H/kk301827H.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/salek/ans1900/ans1900.xml (1)
+2023-07-24 13:54   >> data/vehicles/lizard/pickup1986/pickup1986.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/lizard/pickup2017/pickup2017.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/johnDeere/xuv865M/xuv865M.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/mahindra/retriever/retriever.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/train/wagonVehicles/wagonVehicles.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/train/wagonTimber/wagonTimber.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/fliegl/timberRunner/timberRunner.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/andersonGroup/m160/m160.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/kesla/nd122/nd122.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/man/tgx26640/tgx26640.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/rottne/f20D/f20D.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/ponsse/bison/bison.xml (ALL)
+2023-07-24 13:54   >> data/vehicles/komatsu/forwarder875/forwarder875.xml (ALL)
+2023-07-24 13:54 IMPORT supported container configurations
+2023-07-24 13:54   >> ALL treeSaplingPallet [1.250, 2.500, 0.850]
+2023-07-24 13:54   >> LOGS splitShape [1.000, 1.000, 1.000]
+2023-07-24 13:54   >> LIQUID_TANK liquidTank [1.433, 1.500, 1.415]
+2023-07-24 13:54   >> BIGBAG_PALLET bigBagPallet [1.525, 1.075, 1.200]
+2023-07-24 13:54   >> BIGBAG bigBag [1.050, 1.666, 0.866]
+2023-07-24 13:54   >> EURO_PALLET lettuceBoxPallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET tomatoesBoxPallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET strawberriesBoxPallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET butterBoxPallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET chocolateBoxPallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET furnitureStackPallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET grapeJuicePallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET raisinBoxPallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET grapePallet [1.250, 0.790, 0.850]
+2023-07-24 13:54   >> EURO_PALLET euroPallet [1.250, 0.200, 0.850]
+2023-07-24 13:54   >> EURO_PALLET oliveOilPallet [1.250, 0.450, 0.850]
+2023-07-24 13:54   >> EURO_PALLET canolaOilPallet [1.250, 0.450, 0.850]
+2023-07-24 13:54   >> EURO_PALLET sunflowerOilPallet [1.250, 0.450, 0.850]
+2023-07-24 13:54   >> EURO_PALLET bonsilagePallet [1.250, 0.450, 0.850]
+2023-07-24 13:54   >> EURO_PALLET cakePallet [1.250, 0.475, 0.850]
+2023-07-24 13:54   >> EURO_PALLET eggBoxPallet [1.250, 0.550, 0.850]
+2023-07-24 13:54   >> EURO_PALLET fabricsPallet [1.250, 0.600, 0.850]
+2023-07-24 13:54   >> EURO_PALLET honeyBoxPallet [1.250, 0.650, 0.850]
+2023-07-24 13:54   >> EURO_PALLET boardsStackPallet [1.250, 0.666, 0.850]
+2023-07-24 13:54   >> EURO_PALLET fillablePallet [1.250, 0.800, 0.850]
+2023-07-24 13:54   >> EURO_PALLET bakeryBoxPallet [1.250, 0.920, 0.850]
+2023-07-24 13:54   >> EURO_PALLET cheesePallet [1.250, 1.000, 0.850]
+2023-07-24 13:54   >> EURO_PALLET clothesBoxPallet [1.250, 1.000, 0.850]
+2023-07-24 13:54   >> EURO_PALLET cerealsPallet [1.250, 1.100, 0.850]
+2023-07-24 13:54   >> EURO_PALLET flourBoxPallet [1.250, 1.125, 0.850]
+2023-07-24 13:54   >> EURO_PALLET sugarBoxPallet [1.250, 1.125, 0.850]
+2023-07-24 13:54   >> EURO_PALLET woolPallet [1.250, 1.250, 0.850]
+2023-07-24 13:54   >> EURO_PALLET epsoTop [1.350, 0.600, 1.050]
+2023-07-24 13:54   >> EURO_PALLET patentkali [1.350, 0.855, 1.050]
+2023-07-24 13:54   >> EURO_PALLET pioneerPallet [1.350, 0.833, 1.050]
+2023-07-24 13:54   >> EURO_PALLET schaumannPallet [1.350, 0.770, 1.050]
+2023-07-24 13:54   >> BALE roundbale125 [1.300, 1.200, 1.300]
+2023-07-24 13:54   >> BALE roundbale150 [1.560, 1.200, 1.560]
+2023-07-24 13:54   >> BALE roundbale180 [1.835, 1.200, 1.835]
+2023-07-24 13:54   >> BALE biomassBale125 [1.310, 1.200, 1.310]
+2023-07-24 13:54   >> BALE cottonRoundbale238 [2.380, 2.380, 2.380]
+2023-07-24 13:54   >> BALE squarebale120 [0.455, 0.355, 1.200]
+2023-07-24 13:54   >> BALE squarebale180 [1.210, 0.910, 1.800]
+2023-07-24 13:54   >> BALE squarebale220 [1.210, 0.910, 2.200]
+2023-07-24 13:54   >> BALE squarebale240 [1.210, 0.910, 2.400]
+2023-07-24 13:54   >> BALE packedSquareBale120 [1.210, 0.910, 2.400]
+2023-07-24 13:54   >> BALE cottonSquarebale488 [2.400, 2.400, 4.880]
+2023-07-24 13:54 ADDITIONAL containers
+2023-07-24 13:54   >> FS22_MultiCropGreenhouses:fillablePallet [1.250, 0.800, 0.850] - EURO_PALLET
+2023-07-24 13:54   >> FS22_openAirGarden:fillablePallet [1.250, 0.800, 0.850] - EURO_PALLET
+2023-07-24 13:54   >> FS22_TimberPlantation:treeSaplingPallet [1.250, 2.500, 0.850] - ALL
+2023-07-24 13:54   >> FS22_MultiCropGreenhouses:lettuceBoxPallet [1.250, 0.790, 0.850] - EURO_PALLET
+2023-07-24 13:54   >> FS22_MultiCropGreenhouses:tomatoesBoxPallet [1.250, 0.790, 0.850] - EURO_PALLET
+2023-07-24 13:54   >> FS22_MultiCropGreenhouses:strawberriesBoxPallet [1.250, 0.790, 0.850] - EURO_PALLET
+2023-07-24 13:54   >> FS22_IBCtankfix:liquidTank [1.600, 1.600, 1.600] - LIQUID_TANK
+2023-07-24 13:54   >> FS22_cookieFactory:sugarCookiePallet [1.400, 0.800, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_cookieFactory:chocolateChipCookiePallet [1.400, 0.800, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_cookieFactory:chocolateChocolateChipCookiePallet [1.400, 0.800, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_cookieFactory:oatmealChocolateCookiePallet [1.400, 0.800, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_cookieFactory:oatmealRaisinCookiePallet [1.400, 0.800, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_cookieFactory:strawberryCheesecakeCookiePallet [1.400, 0.800, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_cookieFactory:cookiePackPallet [1.400, 0.800, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_Donut_Production:glazedDonutBoxPallet [1.400, 1.100, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_Donut_Production:strawberryDonutBoxPallet [1.400, 1.100, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_Donut_Production:chocolateDonutBoxPallet [1.400, 1.100, 1.000] - EURO_PALLET
+2023-07-24 13:54   >> FS22_PizzaProduction:pizzaCratePallet [1.400, 1.100, 1.000] - EURO_PALLET
+2023-07-24 13:54 ADDITIONAL bales
+2023-07-24 13:54 ADDITIONAL items
+2023-07-24 13:54   >> FS22_MultiCropGreenhouses:bigBagPallet [1.525, 1.075, 1.200] - BIGBAG_PALLET
+2023-07-24 13:54   >> FS22_MultiCropGreenhouses:bigBag [1.050, 1.666, 0.866] - BIGBAG
+2023-07-24 13:54   >> FS22_MultiPurchasePallet:liquidTank [2.000, 1.500, 2.000] - LIQUID_TANK
+2023-07-24 13:54   >> FS22_treeSaplingPallet120:treeSaplingPallet [1.600, 2.700, 1.200] - EURO_PALLET
+2023-07-24 13:54 USING custom object types
+2023-07-24 13:54   >> FS22_Donut_Production.pallet
+2023-07-24 13:54   >> FS22_IBCtankfix.pallet
+2023-07-24 13:54   >> FS22_MultiCropGreenhouses.bigBag
+2023-07-24 13:54   >> FS22_MultiCropGreenhouses.pallet
+2023-07-24 13:54   >> FS22_MultiPurchasePallet.pallet
+2023-07-24 13:54   >> FS22_PizzaProduction.pallet
+2023-07-24 13:54   >> FS22_TimberPlantation.treeSaplingPallet
+2023-07-24 13:54   >> FS22_cookieFactory.pallet
+2023-07-24 13:54   >> FS22_openAirGarden.pallet
+2023-07-24 13:54   >> FS22_treeSaplingPallet120.treeSaplingPallet
+2023-07-24 13:54 MODHUB ADDON: IMPORT vehicle configurations
+2023-07-24 13:54   >> FS22_TLX_Phoenix/attachments/flatbed_x2.xml (1,3,4)
+2023-07-24 13:54   >> FS22_TLX_Phoenix/attachments/flatbed_x2.xml (2,5,6)
+2023-07-24 13:54   >> FS22_TLX_Phoenix/attachments/logger_x2.xml (ALL)
+2023-07-24 13:54   >> FS22_HW80WoodTrailer/hw80.xml (ALL)
+2023-07-24 13:54   >> FS22_TLX_X52_Logger/x52_logger.xml (ALL)
+2023-07-24 13:54   >> FS22_TLX_X52_Logger/x52_logger_trax.xml (ALL)
+2023-07-24 13:54   >> FS22_MultiTrailer_Pack/OneAxle.xml (1,2,3,4)
+2023-07-24 13:54   >> FS22_MultiTrailer_Pack/OneAxle.xml (5)
+2023-07-24 13:54   >> FS22_MultiTrailer_Pack/Tandem.xml (1,2,3,4)
+2023-07-24 13:54   >> FS22_MultiTrailer_Pack/Tandem.xml (5)
+2023-07-24 13:54 MODHUB ADDON: IMPORT container configurations
+2023-07-24 13:54 ADDING EXTRA object types
+2023-07-24 13:54   UpgradableFactories: Loading XML...
+2023-07-24 13:54   UpgradableFactories: 1 productions loaded from XML
+2023-07-24 13:54   UpgradableFactories: Production maximum level: 10
+2023-07-24 13:54   Info: Loaded navigation cost map from savegame
+2023-07-24 13:54 --- loading Vehicle Control Addon by mogli ---
+2023-07-24 13:54 data/effects/cultivator/particle/soilParticle.i3d (4.01 ms)
+2023-07-24 13:54 data/effects/cultivator/cultivatorMeshes_materialHolder.i3d (1.30 ms)
+2023-07-24 13:54 data/effects/slurry/slurryEffects_materialHolder.i3d (2.21 ms)
+2023-07-24 13:54 data/effects/unload/unloadMeshes_materialHolder.i3d (8.87 ms)
+2023-07-24 13:54 data/effects/unload/unloadParticles_materialHolder.i3d (0.83 ms)
+2023-07-24 13:54 data/effects/unload/unloadParticles.i3d (0.27 ms)
+2023-07-24 13:54 data/effects/smoke/smokeParticles.i3d (0.23 ms)
+2023-07-24 13:54 data/effects/smoke/smokeParticles_materialHolder.i3d (0.15 ms)
+2023-07-24 13:54 data/effects/smoke/industrial/smokeParticles.i3d (1.84 ms)
+2023-07-24 13:54 data/effects/wheel/wheelParticles.i3d (1.19 ms)
+2023-07-24 13:54 data/effects/bees/beesParticles.i3d (0.44 ms)
+2023-07-24 13:54 data/effects/horse/horseStepParticleSystem.i3d (0.35 ms)
+2023-07-24 13:54 data/effects/sprayer/particle/washer.i3d (0.40 ms)
+2023-07-24 13:54 data/effects/sprayer/sprayerMeshes_materialHolder.i3d (1.35 ms)
+2023-07-24 13:54 data/effects/leveler/levelerMeshes_materialHolder.i3d (0.96 ms)
+2023-07-24 13:54 data/effects/wood/particle/forestry.i3d (2.06 ms)
+2023-07-24 13:54 data/effects/belt/beltMeshes_materialHolder.i3d (4.95 ms)
+2023-07-24 13:54 data/effects/potato/particle/potato.i3d (1.80 ms)
+2023-07-24 13:54 data/effects/sugarBeet/particle/sugarBeet.i3d (0.54 ms)
+2023-07-24 13:54 data/effects/cotton/particle/cotton.i3d (1.16 ms)
+2023-07-24 13:54 data/shared/materialHolders/tensionBeltMaterialHolder.i3d (2.52 ms)
+2023-07-24 13:54 data/shared/materialHolders/tireTrackMaterialHolder.i3d (1.17 ms)
+2023-07-24 13:54 data/shared/mapTargetMarker.i3d (0.28 ms)
+2023-07-24 13:54 data/fillPlanes/fillPlane_materialHolder.i3d (0.69 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/placeables/gasStation/gasStation.i3d (0.17 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/placeables/siloMaster/siloMaster.i3d (0.79 ms)
+2023-07-24 13:54 data/store/ui/shop.i3d (9.91 ms)
+2023-07-24 13:54 dataS/menu/licensePlate/creationBox.i3d (0.09 ms)
+2023-07-24 13:54 data/store/ui/wardrobe.i3d (15.16 ms)
+2023-07-24 13:54 data/shared/assets/marker/markerIcons.i3d (0.29 ms)
+2023-07-24 13:54 data/maps/trees/spruce/spruceVar1_stage03.i3d (9.67 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/placeables/sellingStationFarmShop/sellingStationFarmShop.i3d (0.26 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/placeables/sellingStationVehicles/sellingStationVehicles.i3d (0.19 ms)
+2023-07-24 13:54 data/placeables/mapUS/sawmill/sawmillTriggers.i3d (2.74 ms)
+2023-07-24 13:54   UpgradableFactories: initialize production Laizenettes's Sawmill [has custom env: FS22_RisouxForest]
+2023-07-24 13:54 data/placeables/rudolfHormann/garageSmall/garageSmall.i3d (10.69 ms)
+2023-07-24 13:54 data/placeables/rudolfHormann/garageSmall/garageSmallGate_animation.i3d (1.15 ms)
+2023-07-24 13:54 data/shared/assets/lights/rudolfHormann/powerSwitch.i3d (1.42 ms)
+2023-07-24 13:54 data/shared/assets/lights/rudolfHormann/light150.i3d (2.15 ms)
+2023-07-24 13:54 data/placeables/lizard/mobileHome/mobileHome.i3d (3.22 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/placeables/waterFillTriggers/waterFillTriggers.i3d (0.15 ms)
+2023-07-24 13:54 data/placeables/lizard/fencesFarm/level04/fencesFarmLevel04.i3d (0.86 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/placeables/smallStoneShed/smallStoneShed.i3d (114.49 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/placeables/waterFillTriggers2/waterFillTriggers.i3d (0.16 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_RisouxForest/placeables/waterFillTriggers3/waterFillTriggers.i3d (0.15 ms)
+2023-07-24 13:54 data/placeables/lizard/lightsResidential/level01/lightResidential01.i3d (1.02 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_Pioneers_Tent/Pioneers_tent.i3d (7.67 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_Pioneers_Tent/Pioneers_tentProps.i3d (17.79 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_Farm_Sawmill/farmSawmill.i3d (157.95 ms)
+2023-07-24 13:54   UpgradableFactories: initialize production Farm Sawmill [has custom env: FS22_Farm_Sawmill]
+2023-07-24 13:54 data/vehicles/poettinger/faro4010D/faro4010D.i3d (26.72 ms)
+2023-07-24 13:54 data/shared/assets/wheelChocks/wheelChockSupport01.i3d (0.68 ms)
+2023-07-24 13:54 data/shared/wheels/hubs/hubs.i3d (21.23 ms)
+2023-07-24 13:54 data/shared/wheels/hubs/hubSmall01.i3d (0.64 ms)
+2023-07-24 13:54 data/shared/assets/wheelChocks/wheelChock01.i3d (1.13 ms)
+2023-07-24 13:54 data/effects/wheel/wheelEmitterShape.i3d (0.13 ms)
+2023-07-24 13:54 data/shared/wheels/tires/trelleborg/T404/R22_5_T404.i3d (3.05 ms)
+2023-07-24 13:54 data/shared/wheels/rims/rim001.i3d (1.40 ms)
+2023-07-24 13:54 data/shared/wheels/tires/trelleborg/T510/R08_T510.i3d (1.75 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/rearLight33.i3d (1.70 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/frontLight06White.i3d (0.90 ms)
+2023-07-24 13:54 data/shared/assets/reflectors/lizard/whiteRound_02.i3d (0.21 ms)
+2023-07-24 13:54 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (0.15 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/sideMarker05Orange.i3d (0.78 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/sideMarker05White.i3d (0.19 ms)
+2023-07-24 13:54 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (0.17 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/plateNumberLight01.i3d (0.93 ms)
+2023-07-24 13:54 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (1.43 ms)
+2023-07-24 13:54 data/vehicles/poettinger/novacat301/novacat301.i3d (9.49 ms)
+2023-07-24 13:54 data/shared/assets/powerTakeOffs/walterscheidW.i3d (1.07 ms)
+2023-07-24 13:54 data/vehicles/poettinger/novacatA10CrossFlow/novacatA10CrossFlow.i3d (22.87 ms)
+2023-07-24 13:54 data/vehicles/rottne/h21D/h21D.i3d (36.55 ms)
+2023-07-24 13:54 data/shared/wheels/tires/nokian/forestKingF2/_26_5_.i3d (5.21 ms)
+2023-07-24 13:54 data/vehicles/claas/torion1914/sounds/torion1914_loop.gls version 14 (0.18 ms)
+2023-07-24 13:54 data/effects/exhaust/exhaust.i3d (0.37 ms)
+2023-07-24 13:54 data/vehicles/masseyFerguson/series8S/series8S.i3d (43.46 ms)
+2023-07-24 13:54 data/shared/wheels/tires/trelleborg/TM900/R30_TM900.i3d (1.70 ms)
+2023-07-24 13:54 data/shared/wheels/tires/trelleborg/TM900/R38_TM900.i3d (1.50 ms)
+2023-07-24 13:54 data/vehicles/masseyFerguson/series8S/sounds/series8S_loop.gls version 14 (0.20 ms)
+2023-07-24 13:54 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (0.49 ms)
+2023-07-24 13:54 data/shared/assets/beaconLights/lizard/beaconLight03.i3d (0.96 ms)
+2023-07-24 13:54 data/shared/assets/upperLinks/walterscheid03.i3d (1.55 ms)
+2023-07-24 13:54 data/shared/assets/toolbar.i3d (0.60 ms)
+2023-07-24 13:54 data/shared/assets/upperLinks/walterscheid01.i3d (0.40 ms)
+2023-07-24 13:54 data/shared/connectionHoses/AdditionalTopRightHose.i3d (0.23 ms)
+2023-07-24 13:54 data/vehicles/fliegl/timberRunner/timberRunner.i3d (4.23 ms)
+2023-07-24 13:54 data/shared/wheels/tires/continental/contiCrossTracHS3/R22_5_contiCrossTracHS3.i3d (2.26 ms)
+2023-07-24 13:54 data/shared/wheels/hubs/hubTrucks.i3d (7.21 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/rearLight16.i3d (2.22 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/sideMarker03.i3d (1.50 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/rearLight22White.i3d (1.38 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/sideMarker16Orange.i3d (0.48 ms)
+2023-07-24 13:54 UniversalAutoload - supported vehicle: Fliegl Timber Runner - ALL CONFIGURATIONS (ALL)
+2023-07-24 13:54 data/shared/assets/lights/lizard/frontLight02.i3d (1.22 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_UniversalAutoload/triggers/UniversalAutoloadTriggers.i3d (0.21 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/phoenix.i3d (338.19 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/dynamicElements.i3d (17.98 ms)
+2023-07-24 13:54 data/shared/wheels/hubs/hubTatra.i3d (1.16 ms)
+2023-07-24 13:54 data/shared/wheels/tires/continental/contiHybridHD3/R22_5_contiHybridHD3.i3d (3.54 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/eSounds/gearbox_interior_eSounds_loop.gls version 14 (0.07 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/eSounds/truck_transmission_eSounds_loop.gls version 14 (0.05 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/eSounds/cms_engine_eSounds_loop.gls version 14 (0.15 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/eSounds/cms_exhaust_eSounds_loop.gls version 14 (0.14 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/eSounds/engine_turbo_eSounds_loop.gls version 14 (0.01 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/eSounds/cms_interior_eSounds_loop.gls version 14 (0.28 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/eSounds/ambient_interior_eSounds_loop.gls version 14 (0.02 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/sideMarker.i3d (0.55 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/rearLight20.i3d (1.21 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/turnLights.i3d (0.88 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/sideMarker11Orange.i3d (0.95 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/plateNumberLight02.i3d (0.98 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/hellaWorkingLightOval_01_custom.i3d (1.12 ms)
+2023-07-24 13:54 data/shared/assets/lights/hella/hellaWorkingLightSquare_02.i3d (0.85 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/rearLight20_blink.i3d (0.42 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/cabLights.i3d (0.28 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/rearLight20.i3d (0.29 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/rearLight20_blink.i3d (0.28 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/sideMarker06White.i3d (0.81 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/workingLight26.i3d (0.72 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/LED_brake.i3d (0.42 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/LED_reverse.i3d (0.44 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/LED_turn.i3d (0.45 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/wrecker_light.i3d (2.38 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/strobe_rotator.i3d (0.22 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/strobe1.i3d (2.60 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/locals/strobe2.i3d (0.25 ms)
+2023-07-24 13:54 data/vehicles/agco/weight1100/weight1100.i3d (1.38 ms)
+2023-07-24 13:54 data/vehicles/newHolland/t8/t8.i3d (41.84 ms)
+2023-07-24 13:54 data/shared/assets/reflectors/lizard/bigTriangle.i3d (0.70 ms)
+2023-07-24 13:54 data/shared/wheels/tires/trelleborg/TM1000/R30_TM1000.i3d (1.93 ms)
+2023-07-24 13:54 data/shared/wheels/tires/trelleborg/TM1000/R42_TM1000.i3d (1.53 ms)
+2023-07-24 13:54 data/shared/wheels/weights/weight003.i3d (1.80 ms)
+2023-07-24 13:54 data/vehicles/newHolland/t8/sounds/t8_loop.gls version 14 (0.20 ms)
+2023-07-24 13:54 data/shared/assets/beaconLights/lizard/beaconLight07.i3d (0.92 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_Phoenix/attachments/dolly_x2.i3d (28.12 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_X52_Logger/x52_logger.i3d (166.96 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_X52_Logger/wheels/plantation.i3d (23.01 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_X52_Logger/locals/rearLight25.i3d (1.47 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_X52_Logger/locals/rearLight20_blink.i3d (0.54 ms)
+2023-07-24 13:54 C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/FS22_TLX_X52_Logger/locals/rearLight20White.i3d (0.35 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/sideMarker21Red.i3d (0.65 ms)
+2023-07-24 13:54 data/shared/assets/lights/lizard/sideMarker22Orange.i3d (0.76 ms)
+2023-07-24 13:54 UniversalAutoload - supported vehicle: Lizard Forestry TLX X52 Logger - ALL CONFIGURATIONS (ALL)
+2023-07-24 13:54   UpgradableFactories: Initialize loaded production Farm Sawmill [is upgradable: true]
+2023-07-24 13:54   Setting 'Radio Volume': 0.600
+2023-07-24 13:54   Setting 'Vehicle Volume': 1.000
+2023-07-24 13:54   Setting 'Environment Volume': 0.700
+2023-07-24 13:54   Setting 'GUI Volume': 0.500
+2023-07-24 13:54   Info: Savegame Setting 'dirtInterval': 3
+2023-07-24 13:54   Info: Savegame Setting 'snowEnabled': false
+2023-07-24 13:54   Info: Savegame Setting 'growthMode': 1
+2023-07-24 13:54   Info: Savegame Setting 'fuelUsage': 2
+2023-07-24 13:54   Info: Savegame Setting 'plowingRequiredEnabled': false
+2023-07-24 13:54   Info: Savegame Setting 'weedsEnabled': false
+2023-07-24 13:54   Info: Savegame Setting 'limeRequired': false
+2023-07-24 13:54   Info: Savegame Setting 'stonesEnabled': false
+2023-07-24 13:54   Info: Savegame Setting 'economicDifficulty': 1
+2023-07-24 13:54   Info: Savegame Setting 'fixedSeasonalVisuals': nil
+2023-07-24 13:54   Info: Savegame Setting 'plannedDaysPerPeriod': 1
+2023-07-24 13:54 dataS/character/humans/player/player01.i3d (6.01 ms)
+2023-07-24 13:54   Info: [AD] Info: g_server table: 0x01dabf742898 g_client table: 0x01dac0f01fd0 g_dedicatedServer nil g_dedicatedServerInfo nil getUserProfileAppPath C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/ getIsClient true getIsServer true isMasterUser true
+2023-07-24 13:54 dataS/character/player01/beards/facialHair01.i3d (3.08 ms)
+2023-07-24 13:54 dataS/character/player01/brands/brand10/johnDeereBottom.i3d (102.68 ms)
+2023-07-24 13:54 dataS/character/player01/heads/maleHead01.i3d (54.19 ms)
+2023-07-24 13:54 dataS/character/player01/brands/brand07/eltenSensationXX10.i3d (28.51 ms)
+2023-07-24 13:54 dataS/character/player01/attachments/glassesClassic.i3d (0.71 ms)
+2023-07-24 13:54 dataS/character/player01/clothes/accessories/gloves/glovesMechanic.i3d (4.89 ms)
+2023-07-24 13:54 dataS/character/player01/hairStyles/hairStyleBald.i3d (0.33 ms)
+2023-07-24 13:54 dataS/character/player01/brands/brand23/eroHat.i3d (8.77 ms)
+2023-07-24 13:54 dataS/character/player01/attachments/walrusFull.i3d (0.24 ms)
+2023-07-24 13:54 dataS/character/player01/clothes/tops/topHoodie.i3d (3.18 ms)
+2023-07-24 13:54 dataS/character/player01/hairStyles/hairStyleBuzzCut01.i3d (0.92 ms)
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 FULL - NO MORE ROOM
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET PATTERN to fill in any gaps
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 FULL - NO MORE ROOM
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET PATTERN to fill in any gaps
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 FULL - NO MORE ROOM
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET PATTERN to fill in any gaps
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899899959564
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 FULL - NO MORE ROOM
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 STOP LOADING
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 1
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 2
+2023-07-24 13:54 FULLY UNLOADED..
+2023-07-24 13:54 RESET LAYER
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 FULLY UNLOADED...
+2023-07-24 13:54 RESET LAYER
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 3
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 4
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 0
+2023-07-24 13:54 currentLayerHeight: 0
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 USING LOAD PLACE - height: 0.74899888038635
+2023-07-24 13:54 LOADED TYPE: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 5
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 0
+2023-07-24 13:54 currentLayerHeight: 0
+2023-07-24 13:54 nextLayerHeight: 0.74899888038635
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 0
+2023-07-24 13:54 currentLayerHeight: 0
+2023-07-24 13:54 nextLayerHeight: 0.74899888038635
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 USING LOAD PLACE - height: 0.74899891018867
+2023-07-24 13:54 LOADED TYPE: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 0
+2023-07-24 13:54 currentLayerHeight: 0
+2023-07-24 13:54 nextLayerHeight: 0.74899891018867
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 0
+2023-07-24 13:54 currentLayerHeight: 0
+2023-07-24 13:54 nextLayerHeight: 0.74899891018867
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 0
+2023-07-24 13:54 currentLayerHeight: 0
+2023-07-24 13:54 nextLayerHeight: 0.74899891018867
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 1
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 1
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 1
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 1
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 2
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 2
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 2
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 2
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 3
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 3
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 3
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 3
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 4
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 4
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 4
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 4
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 5
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 5
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 5
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 5
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 6
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 6
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 6
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 6
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 7
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 7
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 7
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 7
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 8
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 8
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 8
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 8
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 9
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 9
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 9
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 9
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 10
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 10
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 10
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 10
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 11
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 11
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 11
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 11
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 12
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 12
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 12
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 12
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 13
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 13
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 13
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 13
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 14
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 14
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 14
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 14
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 15
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 15
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 15
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 15
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 16
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 16
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 16
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 16
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 17
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 17
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 17
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 17
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 18
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 18
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 18
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 18
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 19
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 19
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 19
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 0.73352989554405
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 1 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 0.73352989554405
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 19
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 START NEW LAYER
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 FULL - NO MORE ROOM
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET PATTERN to fill in any gaps
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 FULL - NO MORE ROOM
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET PATTERN to fill in any gaps
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 FULL - NO MORE ROOM
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET PATTERN to fill in any gaps
+2023-07-24 13:54 
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 RESET LOADING PATTERN
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 1.4670597910881
+2023-07-24 13:54 currentLoadLength: 11.000000029802
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 0
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 ADDING NEW PLACE FOR: splitShape [11.000, 0.749, 0.734]
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 width: 2.1500000953674
+2023-07-24 13:54 length: 14.5
+2023-07-24 13:54  N1: 0 ,  M1: 19
+2023-07-24 13:54  N2: 2 ,  M2: 1
+2023-07-24 13:54 neverRotate: false
+2023-07-24 13:54 alwaysRotate: true
+2023-07-24 13:54 shouldRotate: true
+2023-07-24 13:54 doRotate: true
+2023-07-24 13:54 LoadingAreaIndex: 1
+2023-07-24 13:54 currentLoadWidth: 0.73352989554405
+2023-07-24 13:54 currentLoadLength: 22.250000059605
+2023-07-24 13:54 currentActualWidth: 1.4670597910881
+2023-07-24 13:54 currentActualLength: 11.000000029802
+2023-07-24 13:54 currentLoadHeight: 0
+2023-07-24 13:54 currentLayerCount: 20
+2023-07-24 13:54 currentLayerHeight: 0.74899891018867
+2023-07-24 13:54 nextLayerHeight: 0
+2023-07-24 13:54 -------------------------------
+2023-07-24 13:54 DID NOT FIT HERE...
+2023-07-24 13:54 FULL - NO MORE ROOM
+2023-07-24 13:54 ===============================
+2023-07-24 13:54 STOP LOADING
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 6
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 7
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 8
+2023-07-24 13:54 Lizard Forestry TLX X52 Logger - RefreshActionEvents 9
+2023-07-24 13:55 RESET LOADING PATTERN
+2023-07-24 13:55   UpgradableFactories: Saving to XML
+2023-07-24 13:55   Info: [AD] ADUserDataManager: saved data for 1 users
+2023-07-24 13:55 Game saved successfully.
+2023-07-24 13:55 Application restart (soft restart)
+2023-07-24 13:55  Used Start Parameters:
+2023-07-24 13:55     restart 
+2023-07-24 13:55     exe D:\SteamLibrary\steamapps\common\Farming Simulator 22\x64\FarmingSimulator2022Game.exe 
+2023-07-24 13:55 Platform: loading defaults
+2023-07-24 13:55   Setting 'Master Volume': 1.000
+2023-07-24 13:55   Setting 'Is Train Tabbable': true
+2023-07-24 13:55   Setting 'Radio Vehicle Only': true
+2023-07-24 13:55   Setting 'Radio Active': false
+2023-07-24 13:55   Setting 'Use Colorblind Mode': false
+2023-07-24 13:55   Setting 'Easy Arm Control': true
+2023-07-24 13:55   Setting 'Show Trigger Marker': true
+2023-07-24 13:55   Setting 'Show Help Trigger': true
+2023-07-24 13:55   Setting 'Show Field-Info': true
+2023-07-24 13:55   Setting 'Invert Y-Look': false
+2023-07-24 13:55   Setting 'Show Help Icons': true
+2023-07-24 13:55   Setting 'Radio Volume': 0.600
+2023-07-24 13:55   Setting 'Vehicle Volume': 1.000
+2023-07-24 13:55   Setting 'Environment Volume': 0.700
+2023-07-24 13:55   Setting 'GUI Volume': 0.500
+2023-07-24 13:55   Setting 'Master Volume': 1.000
+2023-07-24 13:55   Setting 'Music Volume': 0.000
+2023-07-24 13:55 Farming Simulator 22 (Steam)
+2023-07-24 13:55   Version: 1.11.0.0 b25296
+2023-07-24 13:55   Available Languages: en de jp pl cz fr es ru it pt hu nl cs ct br tr ro kr ea da fi no sv fc
+2023-07-24 13:55   Language: en
+2023-07-24 13:55   Time: 2023-07-24 13:55:09
+2023-07-24 13:55   ModDesc Version: 76
+2023-07-24 13:55   Mod Directory: C:/Users/Garrett/Documents/My Games/FarmingSimulator2022/mods/
+2023-07-24 13:55 Available mod: (Hash: 94e3c41005957426329c14e77cc42a16) (Version: 1.0.1.0) baleStacking
+2023-07-24 13:55 Available mod: (Hash: 6e6989dfc2ead20663b7451cb0119709) (Version: 1.0.1.0) arena
+2023-07-24 13:55 Available mod: (Hash: 86e1a01f9f708882a13d44865ad5dbe3) (Version: 1.3.0.0) FS22_Animals_Placeables_Pack
+2023-07-24 13:55 Available mod: (Hash: 7e968068e5457bb757bb3ec9ae8ab474) (Version: 2.0.0.9) FS22_AutoDrive
+2023-07-24 13:55 Available mod: (Hash: 6bf2ed0b77fa5289889510d11e81a5f5) (Version: 1.4.1.4) FS22_A_ProductionRevamp
+2023-07-24 13:55 Available mod: (Hash: b0761790e3928afd1ee62658a85561a0) (Version: 1.0.1.0) FS22_BalerHitchPack
+2023-07-24 13:55 Available mod: (Hash: 046ee41a1e4a289ff909e459ffef946c) (Version: 1.5.0.0) FS22_Black_Mountain
+2023-07-24 13:55 Available mod: (Hash: e6f49488cecfedd0768a4d5bebc5f37a) (Version: 1.0.0.0) FS22_buyProductionInput
+2023-07-24 13:55 Available mod: (Hash: 99937ad1b4a3a7d1c917f9212c5809cc) (Version: 1.0.0.0) FS22_Caravan
+2023-07-24 13:55 Warning: Duplicate l10n entry 'object_farmhouse' in mod 'FS22_Caravan'. Ignoring this definition.
+2023-07-24 13:55 Available mod: (Hash: 909c6e7a26bf909b479d5642c02ed082) (Version: 4.0.0.0) FS22_Claas_Krone_Baler_Pack_With_Lizard_R90
+2023-07-24 13:55 Available mod:  (Version: 1.0.0.0) FS22_Collect900_Poplar_SugarCane
+2023-07-24 13:55 Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_Collect900_Poplar_SugarCane to use it in multiplayer.
+2023-07-24 13:55 Available mod: (Hash: 260aa3173b80d481818e4ee733507080) (Version: 1.0.0.2) FS22_cookieFactory
+2023-07-24 13:55 Available mod: (Hash: 1d81cb3d92224431ae94a220129ab6da) (Version: 7.2.0.5) FS22_Courseplay
+2023-07-24 13:55 Available mod: (Hash: 3bed63243fd214c4ef06f125d7e5c023) (Version: 1.0.0.1) FS22_CowFoodMixer
+2023-07-24 13:55 Available mod: (Hash: 1eee9345e99c002faa4e248a9d210ddc) (Version: 1.0.0.0) FS22_DamageBarSelection
+2023-07-24 13:55 Available mod: (Hash: 756ba8398dc8adb1ac90bbdf1432efd7) (Version: 1.0.0.0) FS22_Dark_Forest_The_Next_Chapter
+2023-07-24 13:55 Available mod: (Hash: 9d4ce918caa240f6c186d0a53a62103e) (Version: 1.0.0.0) FS22_Dark_Forest_The_Next_Chapter_Modded
+2023-07-24 13:55 Available mod: (Hash: 2730b4c7a3c2abf6335bf9bb195e7552) (Version: 1.0.0.0) FS22_Donut_Production
+2023-07-24 13:55 Available mod: (Hash: 09d4ff5da3c6f3a5e41d240cb0d59647) (Version: 2.0.0.1) FS22_dropdeckTrailer53Ft_AutoPack_crossplay
+2023-07-24 13:55 Available mod: (Hash: c69e7762899893a1dd19d4c0027e119d) (Version: 1.3.0.2) FS22_EasyDevControls
+2023-07-24 13:55 Available mod: (Hash: 1b5583e7bf8ffec8ebeb8b0e89e2b384) (Version: 1.0.0.0) FS22_ExtendedBaleWrapColors
+2023-07-24 13:55 Available mod: (Hash: cec87c7c447dc9e2e78331cc952e6900) (Version: 1.0.0.0) FS22_Farm_Sawmill
+2023-07-24 13:55 Available mod: (Hash: 91b5fe1a5683a4ac7cd8073809497466) (Version: 1.0.0.0) FS22_Fiat619
+2023-07-24 13:55 Available mod: (Hash: 4de971ed2dc9d1d58305599a05d0e24f) (Version: 1.0.1.1) FS22_foragePickup
+2023-07-24 13:55 Available mod: (Hash: 3b7bc9d3c9ad4321365239e0efaf61c6) (Version: 1.0.0.0) FS22_FreeFences
+2023-07-24 13:55 Available mod: (Hash: a53ecd42a5fba31139606c1161699d51) (Version: 1.0.0.0) FS22_FreeLandscapingTools
+2023-07-24 13:55 Available mod: (Hash: 6e4f8f5c54a96b2ef77117d5ecb357bb) (Version: 1.0.0.0) FS22_FreeWaterPumpsandTanks_Modded
+2023-07-24 13:55 Available mod: (Hash: 27390db41a0e2c4f1dbdc7a44457a74c) (Version: 1.0.0.0) FS22_FullRefund
+2023-07-24 13:55 Available mod: (Hash: 3e204409e988ffabaac738d719590427) (Version: 1.0.1.1) FS22_GL860_MultiPlanter
+2023-07-24 13:55 Available mod: (Hash: 7a0a11997a49f7ec5b8dc2a05e5611be) (Version: 1.3.0.0) FS22_Gnadenthal
+2023-07-24 13:55 Available mod: (Hash: c1c48ad60fea843ed0d7de160ba2eb23) (Version: 1.1.0.0) FS22_hayLoftBales
+2023-07-24 13:55 Available mod: (Hash: 9d7b9537f5e3b8009b54850913091f10) (Version: 1.0.0.0) FS22_horschProntoDC_Modded
+2023-07-24 13:55 Available mod: (Hash: 7f4f7ae1a0946229a6bfee6ca1751142) (Version: 1.0.0.0) FS22_HorseHelper
+2023-07-24 13:55 Available mod: (Hash: f47587eaf4dae95b928475b7687bfb0f) (Version: 1.0.0.0) FS22_HorseStableRental
+2023-07-24 13:55 Available mod: (Hash: a7d7c02239bef51536464e1488af4614) (Version: 1.0.0.1) FS22_HW80WoodTrailer
+2023-07-24 13:55 Available mod: (Hash: 8bfefbf2f4a2f98bc6fd18e2e6a55c0d) (Version: 1.0.0.0) FS22_IBCtankfix
+2023-07-24 13:55 Available mod: (Hash: 8d70cce2346f92bbd41d59ed9ed6d0bd) (Version: 1.0.0.0) FS22_LimitedPalletObjectFix
+2023-07-24 13:55 Available mod: (Hash: 90577e3fdb629b99a664b736a9a82b80) (Version: 1.0.0.0) FS22_lizardTF840B
+2023-07-24 13:55 Available mod: (Hash: 3d4bfef4107423c09c50e761518af6c2) (Version: 1.0.0.0) FS22_Lizard_MT
+2023-07-24 13:55 Available mod: (Hash: b77fa7ff65ddc97122cca240997e59c7) (Version: 1.0.0.0) FS22_Lizard_TankUtility_Modded
+2023-07-24 13:55 Available mod: (Hash: 8a54a63c6753e5ce05d4eadb392be2e6) (Version: 1.0.2.3) FS22_Lizard_Underbelly_Modded
+2023-07-24 13:55 Available mod: (Hash: 078eb525596281f8bcf81db173eecd58) (Version: 1.5.0.0) FS22_LumberJack
+2023-07-24 13:55 Available mod: (Hash: f79ab40fb763f3491181501781195c7d) (Version: 1.1.0.0) FS22_ManureFix
+2023-07-24 13:55 Available mod: (Hash: 078700e084c714e3a21b0116cf95ce21) (Version: 1.0.0.0) FS22_ManurePlatesPack
+2023-07-24 13:55 Available mod: (Hash: f0177ea3516805448c49439bdb0833e8) (Version: 1.0.0.2) FS22_Measure
+2023-07-24 13:55 Available mod: (Hash: da7f2494915260a9a5696dfc4be89389) (Version: 1.1.0.0) FS22_mobileWorkshop
+2023-07-24 13:55 Available mod: (Hash: 88b1cab0d260b3bc7f4d4fe819e37d85) (Version: 1.0.0.0) FS22_Modern_Sugar_Factory
+2023-07-24 13:55 Available mod: (Hash: d2c1261aa7fc9c96a0dd53b47d9e90d0) (Version: 1.1.0.0) FS22_moreHoneyPalletPlaceOptions
+2023-07-24 13:55 Available mod: (Hash: f7cd1cf6d2130c2aaad2722ab11fadde) (Version: 1.0.0.0) FS22_MultiCropGreenhouses
+2023-07-24 13:55 Available mod: (Hash: decce612b7d461b797d47334a369e828) (Version: 1.1.1.0) FS22_MultiPurchasePallet
+2023-07-24 13:55 Available mod: (Hash: dcd21bfacf6f89046c152d7049c37bd3) (Version: 1.0.1.0) FS22_MultiTrailer_Pack
+2023-07-24 13:55 Available mod: (Hash: d49713a3ed3c8a72a4f1dc93d7d0cb54) (Version: 2.0.1.0) FS22_NewLands
+2023-07-24 13:55 Available mod: (Hash: 4566f431b1240cca03b0b1af3a1d3929) (Version: 1.3.0.0) FS22_noMansLand
+2023-07-24 13:55 Available mod: (Hash: 0bf065c9b4df6be0dba203691d5e2aae) (Version: 1.2.0.1) FS22_ObjectStorage
+2023-07-24 13:55 Available mod: (Hash: 320676280bfaec4cdfa2ccb31b89bd0e) (Version: 1.0.0.0) FS22_oldFuelStationsPack
+2023-07-24 13:55 Available mod: (Hash: 458b9b91c7eff362ea244af0d2ebcbb8) (Version: 1.0.0.0) FS22_Old_Workshop
+2023-07-24 13:55 Available mod: (Hash: dff3186014b1909c42eef73484d22f49) (Version: 1.1.0.1) FS22_openAirGarden
+2023-07-24 13:55 Available mod: (Hash: 7986a119fe50c5489aea0fbdd687ba15) (Version: 1.1.0.0) FS22_paintAndTerraformAnywhere
+2023-07-24 13:55 Available mod: (Hash: 107396b03c9e8d37acc66984c24019c3) (Version: 1.0.1.0) FS22_PalletWarehouse
+2023-07-24 13:55 Available mod: (Hash: 9d52c50702a26597d30ee1b6f4d48d53) (Version: 1.0.0.0) FS22_Pioneers_Tent
+2023-07-24 13:55 Available mod: (Hash: 746b47d08ed5737c1d453a4c1cfdee00) (Version: 1.0.0.0) FS22_PizzaProduction
+2023-07-24 13:55 Available mod: (Hash: fd16b5dbfb891808003f91780c93f7fe) (Version: 1.0.0.0) FS22_RealMower
+2023-07-24 13:55 Available mod: (Hash: b0d73ab98685f6d3f7b5f3510a7363ea) (Version: 1.4.0.0) FS22_realSpeedLimit
+2023-07-24 13:55 Available mod: (Hash: b9cd39cff426d4c487d791ab6ba6257d) (Version: 1.3.0.0) FS22_RisouxForest
+2023-07-24 13:55 Available mod: (Hash: 24a2656de634e02956296761022c2558) (Version: 1.0.0.1) FS22_rottneH21D
+2023-07-24 13:55 Available mod: (Hash: 857f33a65d1375efd1103afafd1b323f) (Version: 1.0.0.0) FS22_Scorpio710
+2023-07-24 13:55 Available mod: (Hash: 0586abc3cc2e21831c892e044e7d5317) (Version: 1.0.0.0) FS22_Scorpio710_Modded
+2023-07-24 13:55 Available mod: (Hash: 2be24ccbc8390491d1394eddaf5f3ac5) (Version: 1.0.0.3) FS22_sellEverything
+2023-07-24 13:55 Available mod: (Hash: d79f00902e10e31090be5a88597acfcb) (Version: 1.0.0.0) FS22_shop
+2023-07-24 13:55 Available mod: (Hash: dd38010e167dccda10d8a79591c1cc8c) (Version: 1.0.1.0) FS22_SilageFactory
+2023-07-24 13:55 Available mod: (Hash: c8bd8dbc8a4a0b49018964af5f2283f1) (Version: 1.0.0.0) FS22_SmallPalletStorage
+2023-07-24 13:55 Available mod: (Hash: 8f7afa132623c69f733c625db3f411f2) (Version: 1.0.0.0) FS22_TajfunEGV80AHK
+2023-07-24 13:55 Available mod: (Hash: fea077b886733e1a390aef205b25984f) (Version: 1.0.0.0) FS22_Tempo_L_16_BD
+2023-07-24 13:55 Available mod: (Hash: aabd4f76dba444a451aae03bd6cfb70d) (Version: 1.0.0.0) FS22_Tempo_L_16_BD_Modded
+2023-07-24 13:55 Available mod: (Hash: 80689792230fb8109729c515a5f7244f) (Version: 1.0.1.0) FS22_theWesternWilds
+2023-07-24 13:55 Available mod: (Hash: 9d852c906c0def271d355742b0c8b599) (Version: 1.0.0.0) FS22_TimberPlantation
+2023-07-24 13:55 Available mod: (Hash: 5e9334a0d65a458677384c6056120070) (Version: 1.2.0.1) FS22_TLX_Phoenix
+2023-07-24 13:55 Available mod: (Hash: c8b818414b30d3ea7ce86f5452b7c6f3) (Version: 1.0.2.0) FS22_TLX_X52_Logger
+2023-07-24 13:55 Available mod: (Hash: de9361f8e19377d75e6d3e0d4286c48c) (Version: 1.0.0.1) FS22_treeSaplingPallet120
+2023-07-24 13:55 Available mod: (Hash: bed250c4f01dd30dcf75db16edad598d) (Version: 1.0.0.0) FS22_UFO_10m3_lightMaterialBucket
+2023-07-24 13:55 Available mod: (Hash: 80d92634dc1ffef52e0281b36c1dda21) (Version: 1.4.0.0) FS22_UniversalAutoload
+2023-07-24 13:55 Available mod: (Hash: 893b0cff4bcf2629cb0a8e7cd983a896) (Version: 1.3.0.0) FS22_UniversalAutoloadModhubAddon
+2023-07-24 13:55 Available mod: (Hash: dbb350ca0c2dc1a5acef758c658f843d) (Version: 1.2.0.0) FS22_UpgradableFactories
+2023-07-24 13:55 Available mod: (Hash: 01d41eefe8fc0df285277bbb14f0dd3e) (Version: 1.2.0.0) FS22_VehicleControlAddon
+2023-07-24 13:55 Available mod: (Hash: d617320210bc1d7319edd8a7d78ecf84) (Version: 1.0.0.0) FS22_Wilson_Pacesetter_Pack
+2023-07-24 13:55 dataS/character/humans/player/animations.i3d (353.04 ms)
+2023-07-24 13:55 dataS/character/humans/player/vehicleCharacterAnimations.i3d (1.71 ms)
+2023-07-24 13:55 dataS/character/humans/npc/animations.i3d (36.54 ms)
+2023-07-24 13:55 Application quit
+2023-07-24 13:55 Warning: Mod-List download failed... retry in 2.000041 s. 0 trail
